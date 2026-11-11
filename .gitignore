@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data mentah dan hasil panen
+data/images/
+data/raw/
+data_collection/output/
+
+# Model dan checkpoint
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+
+# Cache model
+.cache/
+hf_cache/
+
+# Environment
+.env
+.env.*
+
+# Log
+*.log
+
+# OS dan editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
