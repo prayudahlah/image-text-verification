@@ -6,8 +6,8 @@ Verifikasi keselarasan gambar dan teks berbahasa Indonesia. Diberi satu gambar d
 
 ```
 .
-├── data_collection/     panen data dari sumber cek fakta
-├── data/                pasangan gambar dan teks hasil panen
+├── data_collection/     scraping data dari sumber berita indonesia
+├── data/                pasangan gambar dan teks hasil scraping
 ├── notebooks/           satu notebook untuk seluruh pemodelan
 └── reports/             gambar dan tabel untuk laporan
 ```
