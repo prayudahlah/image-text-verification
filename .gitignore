@@ -11,9 +11,15 @@ dist/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data mentah dan hasil panen
+# Data mentah dan cache
 data/images/
 data/raw/
+data_cache/
+*.npz
+data/urls.json
+data/articles_raw.jsonl
+data/articles.jsonl
+data/pairs_v1.jsonl
 data_collection/output/
 
 # Model dan checkpoint
