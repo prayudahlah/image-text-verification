@@ -22,6 +22,8 @@ menggambarkan gambar (`miscaptioned`), atau gambar berasal dari konteks lain
 |---|---|
 | `data/pairs.jsonl` | dataset final dengan kolom `fold` |
 | `data/mc_raw.jsonl` | respons mentah model dan alasan penolakan |
+| `data/images/` | berkas gambar pasangan, tidak ikut di-commit |
+| `data/images.jsonl` | manifest unduhan: URL, berkas, dimensi, status |
 
 Dataset terdiri dari 2.645 pasangan `true`, 2.645 `out-of-context`, dan 831
 `miscaptioned`, total 6.121 pasangan. Artikel yang memakai foto sama digabung
