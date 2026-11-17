@@ -45,3 +45,4 @@ hf_cache/
 Thumbs.db
 .vscode/
 .idea/
+data/pairs_draft.jsonl

@@ -23,8 +23,9 @@ menggambarkan gambar (`miscaptioned`), atau gambar berasal dari konteks lain
 | `data/pairs.jsonl` | dataset final dengan kolom `fold` |
 | `data/mc_raw.jsonl` | respons mentah model dan alasan penolakan |
 
-Dataset terdiri dari 2.918 pasangan `true`, 2.918 `out-of-context`, dan 832
-`miscaptioned`, total 6.668 pasangan.
+Dataset terdiri dari 2.645 pasangan `true`, 2.645 `out-of-context`, dan 831
+`miscaptioned`, total 6.121 pasangan. Artikel yang memakai foto sama digabung
+berdasarkan path foto, bukan URL penuh.
 
 Split dilakukan per artikel. Artikel dengan caption identik disatukan, dan pasangan
 out-of-context dibentuk di dalam fold, sehingga tidak ada gambar atau caption yang
