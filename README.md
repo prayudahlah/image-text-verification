@@ -38,6 +38,10 @@ jupyter lab data_collection/01_pipeline_dataset.ipynb
 Notebook pipeline memakai parameter `LIMIT` di sel kedua. Nilai 50 untuk uji cepat,
 3900 untuk menjalankan penuh. Semua keluaran ditulis ke `data/`.
 
+Daftar URL dibekukan di `data/urls.json`. Selama berkas itu ada dan `LIMIT` tidak
+diubah, dua kali jalan penuh menghasilkan berkas yang identik; sidik jari `sha256`
+dicetak di sel terakhir. Setel `RECOLLECT = True` hanya kalau ingin memperbarui korpus.
+
 ## Lisensi dan sumber data
 
 Korpus diambil dari portal berita publik untuk keperluan penelitian. Teks dan gambar
