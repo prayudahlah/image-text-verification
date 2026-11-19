@@ -1,0 +1,866 @@
+[
+ {
+  "grup": 1,
+  "nama": "Yuda",
+  "jawaban": [
+   {
+    "id": "T061",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T074",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T006",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T073",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T127",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T014",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T157",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T132",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T011",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T133",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T012",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T015",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T063",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T072",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T079",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T013",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T008",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T067",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T002",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T134",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T068",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T139",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T001",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T126",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T123",
+    "jawaban": "ragu"
+   },
+   {
+    "id": "T135",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T121",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T062",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T004",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T122",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T065",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T064",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T055",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T066",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T128",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T097",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T131",
+    "jawaban": "ragu"
+   },
+   {
+    "id": "T175",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T124",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T003",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T037",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T115",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T070",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T009",
+    "jawaban": "ragu"
+   },
+   {
+    "id": "T130",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T129",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T071",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T069",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T125",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T005",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T075",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T007",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T010",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T019",
+    "jawaban": "cocok"
+   }
+  ]
+ },
+ {
+  "grup": 2,
+  "nama": "Rexy",
+  "jawaban": [
+   {
+    "id": "T020",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T163",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T085",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T090",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T150",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T076",
+    "jawaban": "ragu"
+   },
+   {
+    "id": "T061",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T026",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T083",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T084",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T030",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T079",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T137",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T082",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T140",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T024",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T019",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T086",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T022",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T139",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T028",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T103",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T088",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T025",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T144",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T147",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T149",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T077",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T148",
+    "jawaban": "ragu"
+   },
+   {
+    "id": "T089",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T018",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T029",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T023",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T081",
+    "jawaban": "ragu"
+   },
+   {
+    "id": "T017",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T001",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T143",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T121",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T142",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T027",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T043",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T145",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T138",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T080",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T146",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T141",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T016",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T078",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T021",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T136",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T087",
+    "jawaban": "cocok"
+   }
+  ]
+ },
+ {
+  "grup": 3,
+  "nama": "Darell",
+  "jawaban": [
+   {
+    "id": "T094",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T164",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T096",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T045",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T041",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T007",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T152",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T153",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T169",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T043",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T102",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T035",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T032",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T151",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T099",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T091",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T159",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T162",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T085",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T093",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T034",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T038",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T104",
+    "jawaban": "ragu"
+   },
+   {
+    "id": "T037",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T095",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T031",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T039",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T105",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T154",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T163",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T040",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T155",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T036",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T092",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T109",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T044",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T025",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T067",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T101",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T033",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T157",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T127",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T049",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T098",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T165",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T158",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T097",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T100",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T103",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T156",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T145",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T161",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T042",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T160",
+    "jawaban": "cocok"
+   }
+  ]
+ },
+ {
+  "grup": 4,
+  "nama": "Talitha",
+  "jawaban": [
+   {
+    "id": "T116",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T175",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T115",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T133",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T172",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T059",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T179",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T174",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T166",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T106",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T051",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T049",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T055",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T119",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T107",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T058",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T031",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T176",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T171",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T114",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T054",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T151",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T167",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T169",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T178",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T073",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T111",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T046",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T120",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T110",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T112",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T170",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T053",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T117",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T056",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T180",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T047",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T177",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T057",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T013",
+    "jawaban": "tidak"
+   },
+   {
+    "id": "T109",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T060",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T048",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T113",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T108",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T050",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T118",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T173",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T091",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T168",
+    "jawaban": "cocok"
+   },
+   {
+    "id": "T052",
+    "jawaban": "cocok"
+   }
+  ]
+ }
+]

@@ -1,0 +1,126 @@
+{
+ "populasi": {
+  "A": 3114,
+  "B": 694,
+  "C": 2816
+ },
+ "item": 180,
+ "item_ganda": 30,
+ "perselisihan_jumlah": 6,
+ "per_strata": [
+  {
+   "strata": "A",
+   "cocok": 56,
+   "tidak": 3,
+   "ragu": 1,
+   "n dinilai": 59,
+   "presisi": 0.949,
+   "CI bawah": 0.859,
+   "CI atas": 0.989
+  },
+  {
+   "strata": "B",
+   "cocok": 54,
+   "tidak": 3,
+   "ragu": 3,
+   "n dinilai": 57,
+   "presisi": 0.947,
+   "CI bawah": 0.854,
+   "CI atas": 0.989
+  },
+  {
+   "strata": "C",
+   "cocok": 52,
+   "tidak": 5,
+   "ragu": 3,
+   "n dinilai": 57,
+   "presisi": 0.912,
+   "CI bawah": 0.807,
+   "CI atas": 0.971
+  }
+ ],
+ "presisi_gabungan": 0.9364,
+ "ci_gabungan": [
+  0.8891,
+  0.9678
+ ],
+ "presisi_tertimbang": 0.9331,
+ "kesepakatan": {
+  "mentah": 0.8,
+  "kappa_3_kelas": -0.0976,
+  "kappa_biner": -0.0976,
+  "ac1_3_kelas": 0.7802
+ },
+ "tidak_cocok": [
+  "T006",
+  "T027",
+  "T045",
+  "T068",
+  "T074",
+  "T086",
+  "T137",
+  "T140",
+  "T145",
+  "T149",
+  "T164"
+ ],
+ "tidak_jelas": [
+  "T009",
+  "T076",
+  "T081",
+  "T104",
+  "T123",
+  "T131",
+  "T148"
+ ],
+ "perselisihan": [
+  {
+   "id": "T013",
+   "strata": "A",
+   "penilai 1": "Yuda",
+   "jawaban 1": "cocok",
+   "penilai 2": "Talitha",
+   "jawaban 2": "tidak"
+  },
+  {
+   "id": "T043",
+   "strata": "A",
+   "penilai 1": "Rexy",
+   "jawaban 1": "tidak",
+   "penilai 2": "Darell",
+   "jawaban 2": "cocok"
+  },
+  {
+   "id": "T085",
+   "strata": "B",
+   "penilai 1": "Rexy",
+   "jawaban 1": "cocok",
+   "penilai 2": "Darell",
+   "jawaban 2": "tidak"
+  },
+  {
+   "id": "T103",
+   "strata": "B",
+   "penilai 1": "Rexy",
+   "jawaban 1": "tidak",
+   "penilai 2": "Darell",
+   "jawaban 2": "cocok"
+  },
+  {
+   "id": "T145",
+   "strata": "C",
+   "penilai 1": "Rexy",
+   "jawaban 1": "tidak",
+   "penilai 2": "Darell",
+   "jawaban 2": "cocok"
+  },
+  {
+   "id": "T163",
+   "strata": "C",
+   "penilai 1": "Rexy",
+   "jawaban 1": "tidak",
+   "penilai 2": "Darell",
+   "jawaban 2": "cocok"
+  }
+ ]
+}

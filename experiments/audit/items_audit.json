@@ -1,0 +1,2021 @@
+{
+ "dibuat": "2026-11-19",
+ "seed": 20261119,
+ "populasi": {
+  "A": 3114,
+  "B": 694,
+  "C": 2816
+ },
+ "items": [
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Polisi menghalau mobil pribadi yang membawa penumpang di jalan tol Jakarta-Cikampek untuk keluar ke Gerbang tol Cikarang Barat, Kabupaten Bekasi, Jawa Barat, Jumat (24/4/2020). Larangan mudik mulai diberlakukan 24 April 2020 pukul 00.00 WIB. Polda Metro Jaya melarang kendaraan pribadi baik motor atau mobil dan kendaraan umum berpenumpang keluar dari wilayah Jabodetabek. Pemeriksaan dan penyekatan kendaraan tersebut akan dilakukan di 18 titik pos pengamanan terpadu dan pos-pos check point di jalur tikus dan perbatasan. (KOMPAS.com/GARRY LOTULUNG)",
+   "source": "https://megapolitan.kompas.com/read/2020/05/08/13240401/angkut-puluhan-pemudik-tengah-malam-2-travel-tujuan-bandung-dan-tegal",
+   "image": "https://asset.kompas.com/crops/PqXHJldA92C0VS41NcUVtoIeeGg=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2020/04/24/5ea2a87797270.jpeg",
+   "id": "T001",
+   "raters": [
+    1,
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Suasana Terminal Blok M (KOMPAS.com/ JANLIKA PUTRI)",
+   "source": "https://otomotif.kompas.com/read/2023/10/22/133945915/blok-m-jadi-saksi-perkembangan-transportasi-jakarta",
+   "image": "https://asset.kompas.com/crops/qVAsMFhwygKBbMJJkGc3-H6hhgs=/9x0:3249x2160/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2023/10/22/653418785fb3d.jpg",
+   "id": "T002",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Terdakwa kasus dugaan fitnah dan pencemaran nama baik terkait keaslian ijazah Presiden ke-7 RI Joko Widodo, Tifauzia Tyassuma atau Dokter Tifa (kanan) menjalani sidang perdananya di Pengadilan Negeri Jakarta Timur, Jakarta, Kamis (2/7/2026). Sidang tersebut beragendakan pembacaan surat dakwaan oleh jaksa penuntut umum. ANTARA FOTO/Fauzan/bar (FAUZAN)",
+   "source": "https://megapolitan.kompas.com/read/2026/08/21/10142401/hakim-tolak-praperadilan-dokter-tifa-statusnya-sudah-terdakwa-kasus",
+   "image": "https://asset.kompas.com/crops/NptYz54SK57ZV8jOlGGE4l_gxFM=/0x0:1872x1248/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/07/02/6a460bf9c91af.jpg",
+   "id": "T003",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Tim kuasa hukum Dicky Erlangga, ketika membaca surat permohonan penundaan sidang praperadilan dari KPK di Pengadilan Negeri Jakarta Selatan, Jumat (6/11/2026) (Febryan Kevin/Kompas.com )",
+   "source": "https://nasional.kompas.com/read/2026/11/06/12420821/kuasa-hukum-tuding-dicky-erlangga-dikriminalisasi-dalam-kasus-korupsi-jalan",
+   "image": "https://asset.kompas.com/crops/0Z9HHtRbifVe5vOiYTvYHgqM9ps=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/11/06/6aed4f56154ab.jpg",
+   "id": "T004",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Suasana bazzar sembako murah di halama Ponpes Sa’adatuddaroin di Kecamatan Solokanjeruk, Kabupaten Bandung, Jawa Barat, Rabu (4/3/2026) (KOMPAS.COM/M. Elgana Mubarokah)",
+   "source": "https://bandung.kompas.com/read/2026/03/04/145349378/rp-60000-untuk-5-kg-beras-senyum-semringah-ucum-di-bazar-murah-solokan-jeruk",
+   "image": "https://asset.kompas.com/crops/FXqmwdvtNwNWSZowUc47JeyUvAE=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/03/04/69a7dd73a7973.jpg",
+   "id": "T005",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "PT Kereta Api Indonesia (Persero) Divre III Palembang menangkap pelaku pencurian rel kereta api di Kota Prabumulih, Sumatera Selatan. (ANTARA/HO-PT KAI)",
+   "source": "https://regional.kompas.com/read/2023/11/23/050000078/kai-tangkap-pencuri-rel-kereta-api-di-prabumulih",
+   "image": "https://asset.kompas.com/crops/OU6-wDmlzdUHSi7myihzdVDsxX4=/0x36:718x514/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2023/11/23/655e75fc66184.jpeg",
+   "id": "T006",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Iis (60) atau yang dikenal dengan sapaan Bu Entong, salah satu penghuni rumah apung di Muara Angke, Jakarta Utara (KOMPAS.com/Omarali Dharmakrisna Soedirman)",
+   "source": "https://megapolitan.kompas.com/read/2026/11/12/22000101/kisah-nenek-iis-bertahan-di-rumah-apung-yang-miring-hidupi-4-cucu-dari",
+   "image": "https://asset.kompas.com/crops/ITZvjQrS-dbxxM7oAq9PyD_RLYE=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/11/12/6af5b6bf7709b.jpg",
+   "id": "T007",
+   "raters": [
+    1,
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Khariq Anhar, terdakwa kasus tuduhan manipulasi informasi elektronik atau timpa teks terkait gelombang demonstrasi Agustus 2025 di Pengadilan Negeri (PN) Jakarta Pusat, Senin (20/7/2026) (KOMPAS.com/Ridho Danu Prasetyo)",
+   "source": "https://megapolitan.kompas.com/read/2026/07/20/16430911/ahli-linguistik-di-sidang-kasus-khariq-anhar-sebut-ajakan-demo-bukan",
+   "image": "https://asset.kompas.com/crops/ooUOq9fm6W5zlwITgCDyRwGWi4E=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/07/20/6a5de8179762e.jpg",
+   "id": "T008",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Ketua Harian PSI Ahmad Ali saat ditemui di Surabaya, Jawa Timur, Senin (2/3/2026). (KOMPAS.com/ADHYASTA DIRGANTARA)",
+   "source": "https://nasional.kompas.com/read/2026/03/05/14402791/ambang-batas-dpr-sulit-diturunkan-psi-kami-tetap-maju-untuk-lolos-di-2029",
+   "image": "https://asset.kompas.com/crops/Wv9R_sL85kSBb3qIOMxqubfnYBA=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/03/02/69a57bdeb5b14.jpg",
+   "id": "T009",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Menteri Keuangan Purbaya Yudhi Sadewa Purbaya saat ditemui di Kompleks Parlemen, Jakarta, Kamis (11/6/2026). (KOMPAS.com/DEBRINATA RIZKY)",
+   "source": "https://money.kompas.com/read/2026/06/22/163349626/ekonomi-ri-tak-seburuk-yang-dikeluhkan-di-medsos-purbaya-saya-juga-tadinya-deg",
+   "image": "https://asset.kompas.com/crops/d2x7iBRJdzazxsf4KBC8gtxdh7g=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2026/06/11/6a2a9b7a153e9.jpg",
+   "id": "T010",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Suasana masyarakat yang mengadu di Rumah Aspirasi Wakil Walikota Surabaya, Armuji, Selasa (26/5/2026). (KOMPAS.com/AZWA SAFRINA)",
+   "source": "https://surabaya.kompas.com/read/2026/05/26/150923878/nasabah-bank-mayapada-mengaku-kehilangan-uang-rp-159-juta-diduga-dikuras",
+   "image": "https://asset.kompas.com/crops/HcdL9a3dfHUPa6L7A1akZfghCqk=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/05/26/6a1544d7afc75.jpeg",
+   "id": "T011",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Kepala Biro Penerangan Masyarakat (Karopenmas) Divisi Humas Polri Brigjen (Pol) Argo Yuwono di Rupatama Mabes Polri, Jakarta Selatan, Kamis (13/2/2020). (KOMPAS.com/Devina Halim)",
+   "source": "https://nasional.kompas.com/read/2020/03/30/18374831/polri-sebut-tingkat-kriminalitas-menurun-selama-wabah-covid-19",
+   "image": "https://asset.kompas.com/crops/H_k02oz9hvniZbjObG1quvvkz5k=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2020/02/13/5e454f7d00813.jpg",
+   "id": "T012",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Portal berwarna hijau dan kuning dipasang di Jalan Suryatmajan,Kota Yogyakarta, Kamis (2/7/2026) (KOMPAS.COM/WISANG SETO PANGARIBOWO)",
+   "source": "https://yogyakarta.kompas.com/read/2026/08/31/130946978/uji-coba-pedestrian-malioboro-dinilai-tak-ramah-lansia-pemasangan-portal",
+   "image": "https://asset.kompas.com/crops/Hwkh1DX8yqnaL3VuMAGyg5zWXXQ=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/07/02/6a46472e0b9ec.jpg",
+   "id": "T013",
+   "raters": [
+    1,
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Direktur Perlindungan Warga Negara Indonesia (PWNI) Kementerian Luar Negeri (Kemenlu) RI Judha Nugraha (KOMPAS.COM /KIKI SAFITRI)",
+   "source": "https://nasional.kompas.com/read/2025/04/24/17062871/kemlu-314-wni-jadi-korban-perdagangan-orang-ini-hanya-puncak-gunung-es",
+   "image": "https://asset.kompas.com/crops/dZyZ185k6rDFpubWzAnaF8GzQjc=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/04/24/6809e19880c13.jpeg",
+   "id": "T014",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 1,
+   "caption": "Sugiat Santoso during an interview at the DPR Building, Senayan, Jakarta, Wednesday (23/4/2025). (KOMPAS.com/ADHYASTA DIRGANTARA)",
+   "source": "https://go.kompas.com/read/2026/10/31/142109774/gerindra-seeks-resolution-of-gibrans-educational-certificate-controversy-through",
+   "image": "https://asset.kompas.com/crops/zlgs92BtFZy58wVB7JE7EI4UDSg=/259x229:2332x1611/1200x675/data/photo/2025/04/23/6808c781ea172.jpg",
+   "id": "T015",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Ribuan santri asal Kota Tasikmalaya, Jawa Barat, merayakan HSN 2025 di Lapangan Dadaha, Kota Tasikmalaya, Rabu (22/10/2025). (KOMPAS.COM/IRWAN NUGRAHA)",
+   "source": "https://bandung.kompas.com/read/2025/10/22/211704978/wali-kota-tasikmalaya-ajak-santri-kuasai-teknologi-dan-sains-selain-ilmu",
+   "image": "https://asset.kompas.com/crops/rDV_cUuV6h4jsbz8S-DTgRDT4FA=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/10/22/68f8dcd02ddba.jpg",
+   "id": "T016",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Kondisi antrean para calon penumpang di loket pelayanan KAI di Stasiun Pasar Senen, Selasa (28/4/2026). Mereka terlihat kompak untuk memilih refund atau pengembalian dana akibat keterlambatan pasca insiden tabrakan kereta di Bekasi. (KOMPAS.com/INTAN AFRIDA RAFNI)",
+   "source": "https://megapolitan.kompas.com/read/2026/04/28/23351721/demi-wisuda-anak-penumpang-ka-yang-luntang-lantung-di-stasiun-beralih",
+   "image": "https://asset.kompas.com/crops/T8bC5MB1hcRr-B6Povz4Kqlv0s8=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/04/28/69f0cf988607f.jpg",
+   "id": "T017",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Kuliner khas Jawa Timur yang khas Malang Raya berbahan dasar tempe, Mendol. (KOMPAS.com/SUCI RAHAYU)",
+   "source": "https://surabaya.kompas.com/read/2025/01/21/112615078/mendol-kuliner-khas-malang-yang-sederhana-tetapi-memikat",
+   "image": "https://asset.kompas.com/crops/k6IZ5AYl1caBE2v5N-84YbWfSZE=/0x15:2016x1359/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/01/21/678f13457b231.jpg",
+   "id": "T018",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Aksi relawan pemadam kebakaran Rijalul (18), saat mengibarkan bendera merah-putih di lokasi kebakaran hutan dan lahan di Jalan Petuk Katimpun, Kota Palangka Raya, Kamis (13/8/2026). (KOMPAS.COM/AKHMAD DHANI)",
+   "source": "https://nasional.kompas.com/read/2026/08/13/20351391/kemenlu-buka-suara-soal-asap-karhutla-ganggu-malaysia",
+   "image": "https://asset.kompas.com/crops/Py0FdzX7jrDTBFRUEZGvzGTiMyA=/299x195:1155x765/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/08/13/6a7d9f449e7fb.jpg",
+   "id": "T019",
+   "raters": [
+    1,
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Sebuah truk Fuso bermuatan tripleks mengalami insiden patah as di ruas Jalan Daan Mogot, Grogol Petamburan, Jakarta Barat, pada Sabtu (14/11/2026) siang. (KOMPAS.com/Ridho Danu Prasetyo)",
+   "source": "https://otomotif.kompas.com/read/2026/11/17/141200115/6-langkah-memastikan-truk-siap-beroperasi",
+   "image": "https://asset.kompas.com/crops/EWmMpvjEkErqhm8Jz5wsHCwhJ4o=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2026/11/14/6af822fb98286.jpg",
+   "id": "T020",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "(Dari kiri ke kanan) Ketua DK OJK Federica Widyasari Dewi, Menteri Keuangan Suahasil Nazara, Gubernur Bank Indonesia Destry Damayanti dan Ketua LPS Anggito Abimanyu dalam Konpers Hasil Rapat Berkala KSSK IV di Bank Indonesia, Jakarta pada Selasa (3/11/2026). (KOMPAS.com/DEBRINATA RIZKY )",
+   "source": "https://money.kompas.com/read/2026/11/03/183100526/menkeu-suahasil-proyeksikan-ekonomi-indonesia-tumbuh-5-4-5-5-persen-pada-2026",
+   "image": "https://asset.kompas.com/crops/1X8b_RNmdteFE6ZFJ67xdFV-vtI=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2026/11/03/6ae9bd8b9627f.jpg",
+   "id": "T021",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Bupati Malang, HM Sanusi (IMRON HAKIKI/KOMPAS.com)",
+   "source": "https://surabaya.kompas.com/read/2026/01/09/142723078/aplikasi-sempat-bermasalah-gaji-asn-pemkab-malang-terlambat-6-hari",
+   "image": "https://asset.kompas.com/crops/iR0hgK_P4W9dFeRtN9RDhq6Odio=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/12/04/6931060b856e3.jpeg",
+   "id": "T022",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Wisma Danantara di Jalan Gatot Subroto, Jakarta Selatan. (KOMPAS.com/TEUKU MUHAMMAD VALDY ARIEF)",
+   "source": "https://money.kompas.com/read/2026/07/15/150000726/dialektika-ekonomi-politik-danantara-yang-masih-meragukan",
+   "image": "https://asset.kompas.com/crops/7euDmyiqxVoM3VI2z8xldgy-X0Q=/78x52:702x468/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2025/08/19/68a43fa3022d2.jpg",
+   "id": "T023",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Kuasa hukum Ganjar-Mahfud, Todung Mulya Lubis (tengah) usai menyerahkan dokumen kesimpulan terkait sidang sengketa Pilpres 2024 ke Mahkamah Konstitusi, Selasa (16/4/2024). (KOMPAS.com/SINGGIH WIRYONO)",
+   "source": "https://nasional.kompas.com/read/2024/04/16/12054411/serahkan-kesimpulan-ke-mk-kubu-ganjar-mahfud-tegaskan-tetap-pada-petitum",
+   "image": "https://asset.kompas.com/crops/SfwbmDg7nTqdY-t90uh48eFEU8U=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2024/04/16/661dfffb6c7ee.jpeg",
+   "id": "T024",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Dirres PPA-PPO Polda Jatim, Kombes Pol Ganis Setyaningrum pada Kamis (15/10/2026). (KOMPAS.com/IZZATUN NAJIBAH )",
+   "source": "https://surabaya.kompas.com/read/2026/10/16/132832178/polisi-periksa-saksi-kasus-dugaan-kekerasan-seksual-pemilik-travel-umrah-di",
+   "image": "https://asset.kompas.com/crops/zgLrWFWA9H4L1IFDciUrk23Yy60=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/10/16/6ad1b09629fa3.jpeg",
+   "id": "T025",
+   "raters": [
+    2,
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Suasana di bagian check in Bandara Internasional Hang Nadim Batam dalam awal Ramadhan 1447 , Kamis (19/2/2026) (KOMPAS.COM/PARTAHI FERNANDO WILBERT SIRAIT )",
+   "source": "https://regional.kompas.com/read/2026/02/19/155557178/penumpang-di-bandara-hang-nadim-batam-naik-155-persen-awal-ramadan-efek",
+   "image": "https://asset.kompas.com/crops/q8X3AEoa27CANymZ7yAEvmvwk3k=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/02/19/6996a6ef3aaf4.jpg",
+   "id": "T026",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Aksi unjuk rasa yang digelar Aliansi Majelis Perjuangan Rakyat (MPR) di kawasan Monumen Nasional (Monas), Jalan Medan Merdeka Selatan, Jakarta Pusat pada Jumat (17/7/2026) telah usai (KOMPAS.com/Omarali Dharmakrisna Soedirman)",
+   "source": "https://megapolitan.kompas.com/read/2026/07/17/18232731/massa-demo-bubar-jalan-medan-merdeka-arah-gambir-jakpus-kembali-dibuka",
+   "image": "https://asset.kompas.com/crops/HuE2POPfW5YsuTohTOOlVJ2JYHo=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/07/17/6a5a0e2682e3d.jpg",
+   "id": "T027",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Wakil Menteri Komunikasi dan Digital (Wamenkomdigi) Nezar Patria (KOMPAS.com /KIKI SAFITRI)",
+   "source": "https://nasional.kompas.com/read/2025/07/21/20011091/wamenkomdigi-hoaks-yang-dihasilkan-oleh-ai-kini-super-realistik",
+   "image": "https://asset.kompas.com/crops/9N06etm6A9f-XpEgf-ppABOx1PM=/128x139:1152x821/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/04/16/67ff66463a4d5.jpeg",
+   "id": "T028",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "CEO Kompas Gramedia Lilik Oetama bersama Pimpinan Cabang BRI Jakarta Kota Adityo Budiatno serta jajaran Komisaris dan Direksi Kompas Gramedia menekan sirine tanda dimulainya rangkaian pertandingan dalam Opening Ceremony KG CUP 2026 di O2 Court, Kompas Gramedia Palmerah Selatan, Kamis (3/9/2026). (Dok. Kompas Gramedia)",
+   "source": "https://biz.kompas.com/read/2026/09/10/110748528/kg-cup-2026-resmi-dimulai-1500-karyawan-kompas-gramedia-siap-bertanding-di-11",
+   "image": "https://asset.kompas.com/crops/9kczuIVzg2mgDSQTryGS115roiU=/0x0:1200x800/1200x675/data/photo/2026/09/10/6aa22c7fbd691.jpg",
+   "id": "T029",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 2,
+   "caption": "Konferensi pers tindak pidana pencurian dan pembobolan toko ban di Mapolresta Solo, Kamis (27/8/2026) (KOMPAS.COM/ADINDA BUNGA KUSUMA WARDANI)",
+   "source": "https://regional.kompas.com/read/2026/08/27/201358378/nekat-beraksi-lagi-karena-desakan-ekonomi-dua-residivis-bobol-toko-ban-di",
+   "image": "https://asset.kompas.com/crops/FM6ha6BEcwgyGFFF1mQgKzYiRm4=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/08/27/6a90358d369cc.jpg",
+   "id": "T030",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Menteri Perindustrian Agus Gumiwang Kartasasmita IIMS 2026 (KOMPAS.com/GILANG)",
+   "source": "https://otomotif.kompas.com/read/2026/02/05/140740415/menperin-otomotif-masih-jadi-penopang-industri-nasional",
+   "image": "https://asset.kompas.com/crops/SU13mWkglhGlh8XFdfkELQ-uSdY=/78x153:1232x922/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2026/02/05/698416a0a8d8e.jpeg",
+   "id": "T031",
+   "raters": [
+    3,
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Martina Ijul (58) warga Kampung Gewak, Kabupaten Manggarai mendapat santunan ahli waris sebesar Rp15 juta dari Kemensos, Rabu (16/9/2026) (KOMPAS.com/APOLONIA INERU BAHALI)",
+   "source": "https://regional.kompas.com/read/2026/09/17/111117278/cerita-martina-ijul-berjuang-sendiri-usai-suami-meninggal-di-posko",
+   "image": "https://asset.kompas.com/crops/JsG4G6vW4hmWwkdft04NnOJKxag=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/09/17/6aab3735716d3.jpg",
+   "id": "T032",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Pameran komponen dan aftermarket otomotif Automechanika Jakarta 2026 dihelat di NICE PIK 2, Kabupaten Tangerang, Banten, dari Kamis (24/9/2026) hingga Minggu (27/9/2026). (Dok. KOMPAS.com/ANINGTIAS JATMIKA)",
+   "source": "https://biz.kompas.com/read/2026/09/27/144140128/automechanika-jakarta-2026-hubungkan-industri-komponen-indonesia-dengan-dunia",
+   "image": "https://asset.kompas.com/crops/B07QwK5vO8IZoZ4nnLuWOyZz9gk=/0x0:1200x800/1200x675/data/photo/2026/09/27/6ab8c7ed778ac.jpeg",
+   "id": "T033",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Proyek Kantor Kementerian Koordinator 3 di Kawasan Inti Pusat Pemerintahan (KIPP), Ibu Kota Nusantara (IKN). (KOMPAS.com/HILDA B ALEXANDER)",
+   "source": "https://ikn.kompas.com/read/2024/05/25/125010687/buka-peluang-bisnis-properti-ikn-berpotensi-jadi-new-smart-hub",
+   "image": "https://asset.kompas.com/crops/NjfuZqaDAqaCt6RgMk32NQq5D30=/0x0:1280x853/1200x675/data/photo/2024/05/24/665042d3e5f2e.jpg",
+   "id": "T034",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Kondisi tanah amblas di Desa Sila, Kecamatan Nusalaut, Kabupaten Maluku Tengah (KOMPAS.COM/RAHMAT RAHMAN PATTY)",
+   "source": "https://regional.kompas.com/read/2019/11/18/16495431/gempa-magnitudo-49-di-maluku-tengah-1-rumah-warga-ambruk",
+   "image": "https://asset.kompas.com/crops/XCQJMSVB9Vawttm2o48kTkkbJLE=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2019/11/18/5dd2588409567.jpg",
+   "id": "T035",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Anggota Komisi XIII DPR RI dari Fraksi PKB Mafirion saat ditemui di depan Ruang Rapat Komisi XIII, Gedung DPR RI, Rabu (12/3/2025). (KOMPAS.com/Tria Sutrisna)",
+   "source": "https://nasional.kompas.com/read/2026/01/23/18271411/legislator-pkb-tak-ada-pendidikan-berkualitas-tanpa-kesejahteraan-guru",
+   "image": "https://asset.kompas.com/crops/4-fUT36u9tkusLjmmJNRZlHLbRA=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/03/12/67d14c42ab306.jpg",
+   "id": "T036",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "The trial of the alleged corruption case regarding the additional hajj quota for 2023–2024 at the Central Jakarta Corruption Court on Thursday (15/10/2026). (KOMPAS.com/Fristin Intan Sulistyowati )",
+   "source": "https://go.kompas.com/read/2026/10/16/055644874/travel-agency-testimonies-at-trial-fees-of-thousands-of-us-dollars-per-pilgrim",
+   "image": "https://asset.kompas.com/crops/ZDhv1aHia1o6YpoMobsrms0w35A=/0x0:0x0/1200x675/data/photo/2026/10/15/6ad06e81d732e.jpg",
+   "id": "T037",
+   "raters": [
+    1,
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Para peternak mandi susu sebagai bentuk protes terhadap pembatasan kuota susu yang masuk ke pabrik atau Industri Pengolahan Susu (IPS) di Boyolali, Jawa Tengah, Sabtu (9/11/2024). Penyebab Peternak Boyolali Mandi Susu dan Buang 50.000 Liter Susu di TPA (KOMPAS.com/Labib Zamani)",
+   "source": "https://money.kompas.com/read/2024/11/15/053000926/di-balik-kebijakan-impor-susu-antara-komitmen-internasional-atau-nasib",
+   "image": "https://asset.kompas.com/crops/Xhc58MUMV9reFV_2Jlj7u3oAGvI=/0x0:972x648/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2024/11/09/672f215d4776a.jpg",
+   "id": "T038",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Siswa penyandang disabilitas di SMPN 1 Cibal Barat, Kec. Cibal Barat, Kab. Manggarai, NTT, Jumat, (23/102026) mendapatkan pelayanan kesehatan reproduksi. (KOMPAS.com/Dok Warga Manggarai)",
+   "source": "https://regional.kompas.com/read/2026/10/25/165113478/anak-disabilitas-di-manggarai-dapat-pendampingan-pascagempa-dari-kesehatan",
+   "image": "https://asset.kompas.com/crops/pzjGMNPOMMM-1NFLufdY2Aga3U4=/0x291:1500x1291/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/10/25/6addcf7ab05a5.jpeg",
+   "id": "T039",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Kapuspenkum of the Attorney General's Office Anang Supriatna at the Attorney General's Office building in Jakarta on Wednesday (August 19, 2026). (KOMPAS.com/NICHOLAS RYAN ADITYA)",
+   "source": "https://go.kompas.com/read/2026/10/27/175124774/attorney-general-questions-2-former-esdm-directors-in-alleged-corruption-case",
+   "image": "https://asset.kompas.com/crops/Yv1htsFlo8RS4U0phNCc7fF1BRE=/0x0:0x0/1200x675/data/photo/2026/08/19/6a8591595ac5d.jpg",
+   "id": "T040",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Fitriyani bertemu dengan Kepala Pengadilan Militer I-02 Medan Kolonel Rony Suryandoko di Pengadilan Militer I-02 Medan pada Kamis (17/7/2025). (KOMPAS.com/GOKLAS WISELY )",
+   "source": "https://medan.kompas.com/read/2025/07/18/215148778/curhatan-ibu-pelajar-yang-ditembak-mati-prajurit-tni-ke-kepala-pm-medan-saya",
+   "image": "https://asset.kompas.com/crops/tU9RgtJRnXAIGEa_ocSKMGHyWm0=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/07/18/687a513fd2d15.jpg",
+   "id": "T041",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Menteri Kesehatan (Menkes) Budi Gunadi Sadikin saat konferensi pers, di Kantor Kemenkes, Jakarta Selatan, Kamis (27/11/2025). (KOMPAS.com/FIRDA JANATI)",
+   "source": "https://nasional.kompas.com/read/2026/01/07/17274811/menkes-ajukan-anggaran-rp-500-miliar-pulihkan-faskes-daerah-banjir-sumatera",
+   "image": "https://asset.kompas.com/crops/wm39nJXvikcshq1tUF4fhVl19Jc=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/11/27/69281252ac2c2.jpeg",
+   "id": "T042",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Terdakwa kasus pembunuhan berencana terhadap Nofriansyah Yosua Hutabarat atau Brigadir J, Richard Eliezer Pudihang Lumiu atau Bharada E tiba di Pengadilan Negeri (PN) Jakarta Selatan, Selasa (25/10/2022) pukul 08.26 WIB. (KOMPAS.com / IRFAN KAMIL)",
+   "source": "https://nasional.kompas.com/read/2022/10/25/09315151/tiba-di-pengadilan-richard-eliezer-bakal-bertemu-keluarga-brigadir-j-dalam",
+   "image": "https://asset.kompas.com/crops/uoKsM1RU0EXMUw0wrGQbczld5B0=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2022/10/25/63573d5446d15.jpeg",
+   "id": "T043",
+   "raters": [
+    2,
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Prakirawan BMKG Stasiun SAMS Sepinggan Balikpapan menunjukkan pergerakan angin di kawasan Kaltim. BMKG memprediksi puncak musim hujan di Kaltim akan terjadi pada Desember 2025-Januari 2026. (KOMPAS.Com/Alfian Erik)",
+   "source": "https://regional.kompas.com/read/2025/12/04/213231878/durasi-musim-hujan-kaltim-bisa-capai-7-bulan-risiko-bencana",
+   "image": "https://asset.kompas.com/crops/QFDk5jjYwuvfpBW036BkDqbqlv0=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/12/04/693130581703f.jpeg",
+   "id": "T044",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 3,
+   "caption": "Juru Bicara Kementerian Kesehatan Widyawati dalam konferensi pers di kantor BNPB, Jakarta Pusat, Kamis (10/9/2026). (KOMPAS.com/FIRDA JANATI)",
+   "source": "https://nasional.kompas.com/read/2026/09/10/18083111/kemenkes-catat-113336-kasus-ispa-di-7-provinsi-terdampak-karhutla",
+   "image": "https://asset.kompas.com/crops/w29Kosb6dBlxYy2Vy4FUQrU2NPY=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/09/10/6aa28e2aded1a.jpeg",
+   "id": "T045",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Jalan Semarang-Solo macet panjang karena ada perbaikan kondisi jalan jelang Idul Fitri (KOMPAS.com/Dian Ade Permana)",
+   "source": "https://regional.kompas.com/read/2026/02/20/192353778/sebabkan-kemacetan-panjang-perbaikan-jalan-semarang-solo-dikeluhkan",
+   "image": "https://asset.kompas.com/crops/O9c8JAXz8iUY9d9eHvdDzQTjg4E=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/02/20/69983f4eed9a3.jpg",
+   "id": "T046",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Banjir di kawasan permukiman Desa Tukka, Tapanuli Tengah, Sumatera Utara, Kamis (4/12/2025) (Kompas.com/Ridho Danu Prasetyo)",
+   "source": "https://medan.kompas.com/read/2025/12/05/053440678/mujizat-tuhan-cerita-warga-tukka-selamat-dari-banjir-bandang-dan-longsor",
+   "image": "https://asset.kompas.com/crops/HCSLS-SH6hB-76WAs_x3eR4jv6Q=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/12/04/6931a5565529e.jpeg",
+   "id": "T047",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Gubernur Jawa Barat, Dedi Mulyadi menyiapkan skenario jika gempa besar yang dipicu sesar Lembang terjadi. (KOMPAS.COM/AFDHALUL IKHSAN)",
+   "source": "https://bandung.kompas.com/read/2026/10/12/232033478/skenario-gempa-besar-sesar-lembang-dedi-mulyadi-siapkan-cirebon-jadi-pusat",
+   "image": "https://asset.kompas.com/crops/fYt83Pwa08owlFacjReV2iugmjk=/0x337:675x787/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/10/05/6ac3704dde2a9.jpg",
+   "id": "T048",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Mantan Direktur Utama Bank Jateng Supriyatno (kiri) usai menjalani sidang putusan kasus korupsi pemberian kredit kepada PT Sritex di Semarang, Kamis (7/5/2026). (ANTARA/I.C. Senjaya)",
+   "source": "https://regional.kompas.com/read/2026/05/08/161026778/hakim-vonis-bebas-eks-dirut-bank-jateng-supriyatno-dalam-kasus-korupsi",
+   "image": "https://asset.kompas.com/crops/5fqF8WvbZZkRGSH-0MIUKnkqjV8=/0x0:800x533/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/05/08/69fda7431ae00.jpg",
+   "id": "T049",
+   "raters": [
+    3,
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Asosiasi Petelur Nasional menggelar unjuk rasa di depan Gedung DPR RI, Jakarta Pusat, Rabu (7/10/2026). (KOMPAS.COM/Pandi Ramedhan)",
+   "source": "https://megapolitan.kompas.com/read/2026/10/07/14481791/demo-di-dpr-asosiasi-petelur-berharap-pemerintah-segera-tekan-harga-pakan",
+   "image": "https://asset.kompas.com/crops/KBU-CrC3qNnQDcIu3MAWuXcUxAc=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/10/07/6ac5f273a0470.jpeg",
+   "id": "T050",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Suasana pameran perjalanan HSBC ANA Travel Fair 2026 hari pertama di Plaza Indonesia, Kamis (8/10/2026). (Kompas.com/ Suci Wulandari Putri)",
+   "source": "https://travel.kompas.com/read/2026/10/09/083600827/flash-sale-cashback-rp-2-juta-di-hsbc-ana-travel-fair-2026-catat-jamnya",
+   "image": "https://asset.kompas.com/crops/DLnS39zYbqw7xSj8DLYCbAoqH_0=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c81889b5f6.png,0,-0,1)/data/photo/2026/10/08/6ac757a8015c3.jpg",
+   "id": "T051",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Kebakaran melanda lahan jati milik warga di Desa Bungkuk, Kecamatan Parang, Kabupaten Magetan. Api membakar sekitar 7 hektare lahan dan berhasil dipadamkan sekitar pukul 19.50 WIB setelah petugas bersama warga melakukan penanganan secara manual. (KOMPAS.COM/SUKOCO)",
+   "source": "https://surabaya.kompas.com/read/2026/08/24/070018178/lahan-jati-7-hektare-di-magetan-terbakar-diduga-akibat-kebiasaan-buka-lahan",
+   "image": "https://asset.kompas.com/crops/YzD6cXT5ZeVlnUKwsXFql5fcfzE=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/08/24/6a8b7a466172d.jpg",
+   "id": "T052",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Menjelang perayaan Idul Fitri 2026, kesiapsiagaan layanan kesehatan menjadi perhatian penting, terutama di rumah sakit rujukan besar seperti RSUD Dr. Soetomo Surabaya, Jawa Timur. (KOMPAS.COM/SUCI RAHAYU)",
+   "source": "https://surabaya.kompas.com/read/2026/03/16/183257678/bukan-kecelakaan-penyakit-metabolik-diprediksi-dominasi-saat-lebaran-rsud",
+   "image": "https://asset.kompas.com/crops/7EEipwHcRguROCksq6Vd2-ubxg4=/0x52:1280x905/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/03/16/69b7db47df46f.jpeg",
+   "id": "T053",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Gubernur DIY Sri Sultan HB X saat masuk ke dalam Mapolda DIY. (Foto dokumentasi Humas Pemda DIY). (KOMPAS.COM/YUSTINUS WIJAYA KUSUMA)",
+   "source": "https://yogyakarta.kompas.com/read/2025/09/08/172810378/efek-sultan-hb-x-temui-aksi-massa-okupansi-hotel-yogyakarta-tembus-70",
+   "image": "https://asset.kompas.com/crops/nawEQFnYvvSAuvozLryT9-5pybw=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/08/29/68b1d763063a9.jpg",
+   "id": "T054",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Kapten Persib Bandung Marck Klok dalam konferensi pers jelang kick of Super League 2025-2026, pekan pertama melawan Semen Padang FC, duel antara kedua tim digelar pada Sabtu (9/8/2025) di Gelora Bandung Lautan Api (GBLA). (KOMPAS.com/ADIL NURSALAM)",
+   "source": "https://bola.kompas.com/read/2025/08/25/15382198/kata-kata-marc-klok-usai-penalti-gagal-di-laga-psim-vs-persib-marah-ke-diri",
+   "image": "https://asset.kompas.com/crops/2-gnweUbzRHqMSpRoU59vHXUQEo=/0x0:3693x2462/1200x675/filters:watermark(data/photo/2026/01/30/697c8163c3944.png,0,-0,1)/data/photo/2025/08/08/689573feec755.jpeg",
+   "id": "T055",
+   "raters": [
+    1,
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Sejumlah orang duduk di pinggir Sungai Landak Desa Sampe Raya Kecamatan Bahorok Langkat pada Rabu (18/11/2020) sore. Banjir bandang memporak-porandakan bangunan. Ditemukan kayu-kayu besar sepanjang 5 km. (KOMPAS.COM/DEWANTORO)",
+   "source": "https://regional.kompas.com/read/2020/11/18/22150681/banjir-bandang-di-langkat-kayu-besar-berserakan-sejauh-5-kilometer",
+   "image": "https://asset.kompas.com/crops/ChKn5YhuFpvS9djZiV3dZLhRJzc=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2020/11/18/5fb52d2306f5b.jpg",
+   "id": "T056",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Menteri Keuangan sekaligus Ketua Komite Stabilitas Sistem Keuangan (KSSK) Suahasil Nazara dalam Konpers Hasil Rapat Berkala KSSK IV di Bank Indonesia, Jakarta pada Selasa (3/11/2026). (KOMPAS.com/DEBRINATA RIZKY )",
+   "source": "https://money.kompas.com/read/2026/11/06/220200426/suahasil-sebut-apbn-topang-pertumbuhan-ekonomi-indonesia-5-47-persen",
+   "image": "https://asset.kompas.com/crops/gIHIYSS-JzrsbeYgPJwQem3ZXak=/1093x1173:3280x2631/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2026/11/03/6ae9d072c6660.jpg",
+   "id": "T057",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Kapolda Lampung mengungkap inisial ATD sebagai pemesan uang palsu Rp 980 juta. Polisi kini memburu ATD di Jakarta berdasarkan keterangan tersangka Sudiyono. (KOMPAS.com/ VERI NOVIANTO )",
+   "source": "https://regional.kompas.com/read/2026/11/05/082149578/polisi-kantongi-informasi-pemesan-uang-palsu-rp-980-juta-nomornya-kini-tak",
+   "image": "https://asset.kompas.com/crops/idHuHokGk2a1BH__1PNakpu0NTk=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/11/04/6aeb0c567e30e.jpg",
+   "id": "T058",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Ketua DPP PDI-P Deddy Sitorus, Kamis (28/11/2024). (KOMPAS.com / VITORIO MANTALEAN)",
+   "source": "https://nasional.kompas.com/read/2024/12/16/20141331/pdip-ungkap-alasan-baru-pecat-jokowi-usai-pemilu",
+   "image": "https://asset.kompas.com/crops/NlKB1S_IdCJSi_EKvZwSIa4_YM0=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2024/11/28/6748394929c5c.jpg",
+   "id": "T059",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "A",
+   "blok": 4,
+   "caption": "Sekretaris Jenderal (Sekjen) Partai Demokrat Herman Khaeron di Gedung DPR RI, Jakarta, Rabu (23/9/2026). (KOMPAS.com/Rahel)",
+   "source": "https://nasional.kompas.com/read/2026/09/23/15435791/demokrat-dukung-usulan-pileg-digelar-lebih-dulu-sebelum-pilpres",
+   "image": "https://asset.kompas.com/crops/hx-uNeQFpNQea2XOyVrXc9NeKsQ=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/09/23/6ab375ed1518f.jpg",
+   "id": "T060",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Tari Pasambahan dari Minangkabau (Shutterstock/Luthfi Syahwal)",
+   "source": "https://regional.kompas.com/read/2022/05/09/060000378/tari-pasambahan-dari-minangkabau-makna-pola-lantai-gerakan-dan-properti",
+   "image": "https://asset.kompas.com/crops/BQN6QKwvm-DHjgSL1UGjJPCghVY=/1x0:1000x666/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2022/05/08/6277ed095bd5d.jpg",
+   "id": "T061",
+   "raters": [
+    1,
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Ilustrasi proyek MRT. Pekerja menyelesaikan proyek pembangunan tunnel MRT Harmoni-Sawah Besar di Jakarta, Selasa (12/5/2026). Berdasarkan data per 12 Mei 2026 progres pembangunan MRT Jakarta Fase 2A Bundaran HI-Kota telah mencapai 59,7 persen, dengan target operasional untuk rute Bundaran HI-Monas pada akhir 2027 dan untuk rute Monas-Kota pada akhir 2029. (ANTARA FOTO/Indrianto Eko Suwarso)",
+   "source": "https://money.kompas.com/read/2026/10/31/202501426/250-psn-rampung-investasi-capai-rp-2396-triliun-hingga-oktober-2026",
+   "image": "https://asset.kompas.com/crops/6l7QVqFJOCMKGqviCO95oQIBbKU=/0x0:5000x3333/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2026/05/21/6a0ea4aacb82e.jpg",
+   "id": "T062",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Ilustrasi Bandara Soekarno-Hatta Tangerang, Banten. (SHUTTERSTOCK/SONY HERDIANA)",
+   "source": "https://money.kompas.com/read/2026/04/06/193010926/cuaca-ekstrem-ganggu-penerbangan-di-soekarno-hatta-belasan-pesawat-dialihkan",
+   "image": "https://asset.kompas.com/crops/c4n8V5b1FXwykAsrnona6llefwc=/0x0:1000x667/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2022/07/18/62d53218893e2.jpg",
+   "id": "T063",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Ilustrasi Bali - Pura Tanah Lot. (SHUTTERSTOCK)",
+   "source": "https://denpasar.kompas.com/read/2023/04/27/050500678/prakiraan-cuaca-di-denpasar-hari-ini-27-april-2023---pagi-cerah-berawan",
+   "image": "https://asset.kompas.com/crops/-CTapFVcKVBIDU4iEiZIm6Ie3rU=/85x0:707x415/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2020/05/15/5ebe63bb29c3c.jpg",
+   "id": "T064",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Ilustrasi keuangan. Inklusi keuangan adalah upaya untuk menyediakan akses terhadap produk dan layanan jasa keuangan formal yang sesuai dengan kebutuhan dan kemampuan masyarakat. (shutterstock)",
+   "source": "https://money.kompas.com/read/2024/10/15/220000426/pemerintahan-baru-punya-pekerjaan-rumah-untuk-tingkatkan-inklusi-keuangan",
+   "image": "https://asset.kompas.com/crops/nLHhZA9VZxGpNSgsWhstGcUxfDI=/0x0:930x620/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2024/03/19/65f9116a0b155.jpg",
+   "id": "T065",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Ilustrasi pembangunan koperasi desa. (Fitra Yogi)",
+   "source": "https://money.kompas.com/read/2026/11/05/124500026/ekonomi-kerakyatan-di-persimpangan",
+   "image": "https://asset.kompas.com/crops/GEkIw_RvXN2oHcAQmbHRdbftBOs=/138x0:5000x3241/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2026/07/23/6a619b101f21a.jpg",
+   "id": "T066",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Ilustrasi belajar daring. Selasa (27/10/2026). (KOMPAS.COM/MUHAMMAD FAHRIL)",
+   "source": "https://makassar.kompas.com/read/2026/10/28/102921678/keluh-orangtua-di-palu-dampingi-anak-belajar-daring-sudah-mau-jadi",
+   "image": "https://asset.kompas.com/crops/T5CB8u7O4ipwoVsDHF8iHm7XcD4=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/10/27/6ae04e50198eb.jpg",
+   "id": "T067",
+   "raters": [
+    1,
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Pertumbuhan ekonomi Indonesia 2026. (PEXELS/TOM FISK)",
+   "source": "https://money.kompas.com/read/2026/11/05/174000826/ekonomi-ri-tumbuh-5-47-persen-indef-soroti-beban-pajak-kelas-menengah",
+   "image": "https://asset.kompas.com/crops/dxOjPvAUhufOycEVhO7EPqM8p8o=/192x131:1728x1155/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2024/05/12/6640eac68a4d5.jpg",
+   "id": "T068",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Ilustrasi suasana pameran GIIAS 2026 (KOMPAS.com/DIO DANANJAYA)",
+   "source": "https://otomotif.kompas.com/read/2026/09/17/160100315/merek-china-mulai-rebut-porsi-pasar-ini-kata-toyota",
+   "image": "https://asset.kompas.com/crops/HCviEe7dM5zoFfWJ0iS39O5Sm3s=/0x133:1600x1200/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2026/08/08/6a7645c28fb9d.jpeg",
+   "id": "T069",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Obesitas bukan sekadar berat badan berlebih. Dokter ungkap dampak seriusnya bagi kesehatan dan alasan penting mengatasinya sejak dini. (Dok. Freepik/atlascompany)",
+   "source": "https://lifestyle.kompas.com/read/2025/10/16/210500020/obesitas-tak-cuma-berat-badan-berlebih-dokter-ungkap-dampak-seriusnya",
+   "image": "https://asset.kompas.com/crops/4JQKPXumLMbrliV7JIZHq-WhLAQ=/0x0:1500x1000/1200x675/filters:watermark(data/photo/2026/01/30/697c817ed68bb.png,0,-0,1)/data/photo/2025/08/26/68adaab7e4a5a.jpg",
+   "id": "T070",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Ilustrasi Wuling Aira EV di GIIAS 2026 (KOMPAS.com/ADITYO WISNU)",
+   "source": "https://otomotif.kompas.com/read/2026/11/10/070200015/21-merek-mobil-china-kuasai-19-persen-pasar-otomotif-indonesia",
+   "image": "https://asset.kompas.com/crops/KFWVtwb-c0vLMlf2KCCMXt6cXy4=/246x327:1171x943/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2026/08/05/6a72578588d9d.jpg",
+   "id": "T071",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Ilustrasi: Saham RATU, emiten Happy Hapsoro, suami Ketua DPR RI Puan Maharani, cetak ARA (SHUTTERSTOCK/PHONGPHAN)",
+   "source": "https://money.kompas.com/read/2026/11/11/113447326/saham-saham-terafiliasi-happy-hapsoro-menguat-raja-melonjak-18-persen",
+   "image": "https://asset.kompas.com/crops/NtuUMNRUT8hZTFAHxV_Rk2dJrKs=/4x0:1000x664/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2024/02/13/65cb66bcbebae.jpg",
+   "id": "T072",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Ilustrasi wisatawan mancanegara di Indonesia. (Dokumentasi Biro Komunikasi Kementerian Pariwisata dan Ekonomi Kreatif)",
+   "source": "https://travel.kompas.com/read/2021/11/01/163311427/indonesia-berencana-bebaskan-karantina-untuk-turis-asing",
+   "image": "https://asset.kompas.com/crops/bgPqZYCO0hFMVjP_6UT3bQCkFF8=/0x0:1280x853/1200x675/filters:watermark(data/photo/2026/01/30/697c81889b5f6.png,0,-0,1)/data/photo/2020/05/04/5eb00a1abd620.jpeg",
+   "id": "T073",
+   "raters": [
+    1,
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Polisi menangkap buron penipuan open trip Labuan Bajo yang merugikan tiga turis Italia. Simak tipsnya agar tidak terjebak penipuan senada. (SHUTTERSTOCK/PRAWAT THANITHAPORN)",
+   "source": "https://travel.kompas.com/read/2026/10/21/113645527/penipu-open-trip-labuan-bajo-ditangkap-hindari-penipuan-dengan-tips-ini",
+   "image": "https://asset.kompas.com/crops/l6GTWYFMy8qDCm05jan7zsVA5Bw=/0x0:1000x667/1200x675/filters:watermark(data/photo/2026/01/30/697c81889b5f6.png,0,-0,1)/data/photo/2023/12/13/6579b68dcdecb.jpg",
+   "id": "T074",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 1,
+   "caption": "Ilustrasi partai politik. (Ilustrator: Kompas.com/Andika Bayu Setyaji)",
+   "source": "https://regional.kompas.com/read/2025/09/17/114817378/rp-675-juta-untuk-9-partai-politik-di-purworejo-jumlahnya-sesuai-perolehan",
+   "image": "https://asset.kompas.com/crops/4RhWWi9Ir9hJfz4aMe8osvj-Afs=/0x0:1920x1280/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2022/10/26/6358affcaa88c.jpg",
+   "id": "T075",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Ilustrasi gunung anak krakatau. Gunung Anak Krakatau kembali erupsi Jumat (30/10/2026) pukul 01.40 WIB. Dalam enam jam, tercatat 35 gempa hybrid dan status masih Siaga III. (PVMBG)",
+   "source": "https://regional.kompas.com/read/2026/11/01/055114278/aktivitas-gunung-anak-krakatau-terekam-15-kali-gempa-letusan-hingga-sabtu",
+   "image": "https://asset.kompas.com/crops/j0yMet_nQiUF10eMG2CnOeBZVI4=/168x4:730x378/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/10/30/6ae3e64f9f31e.jpg",
+   "id": "T076",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Ilustrasi kondisi penumpang di Stasiun Malang Kota Baru pada April 2026. (KOMPAS.com/ PUTU AYU PRATAMA SUGIYO)",
+   "source": "https://travel.kompas.com/read/2026/11/17/120100527/liburan-nataru-ke-malang-naik-kereta-segini-harga-tiketnya",
+   "image": "https://asset.kompas.com/crops/kwj1PN8vGeW6lCWu5s42t9pk6dU=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c81889b5f6.png,0,-0,1)/data/photo/2026/05/13/6a0459800dcc8.jpeg",
+   "id": "T077",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Ilustrasi emas batangan, harga emas hari ini. (DOK. Shutterstock.)",
+   "source": "https://money.kompas.com/read/2026/11/02/102209926/harga-emas-dunia-berpotensi-rebound-data-ekonomi-as-jadi-penentu",
+   "image": "https://asset.kompas.com/crops/SVwJDFqq8-BJfbso6rV7ZjR1AqI=/157x0:1309x768/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2025/04/21/6805e6d4968f8.jpg",
+   "id": "T078",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Ilustrasi pemandangan kota Sydney, Australia. (UNSPLASH/DAN FREEMAN)",
+   "source": "https://money.kompas.com/read/2024/03/12/142509926/duo-pengembang-properti-australia-asal-ri-pecah-kongsi-ada-apa",
+   "image": "https://asset.kompas.com/crops/D1OywSudb90WmyMGEY0ga4UlVzE=/0x9:2112x1417/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2024/03/12/65f00018acd7a.jpg",
+   "id": "T079",
+   "raters": [
+    1,
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Ilustrasi wisata ke Bali. (PEXELS/DARREN LAWRENCE)",
+   "source": "https://denpasar.kompas.com/read/2022/04/01/050600178/prakiraan-cuaca-di-denpasar-hari-ini-1-april-2022---pagi-hingga-malam",
+   "image": "https://asset.kompas.com/crops/dfajjOOOdpMxCx2NS3bKLph5sFs=/0x0:1920x1280/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2022/02/04/61fcdd89ad9a2.jpg",
+   "id": "T080",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Elon Musk semakin mendekati status orang terkaya dunia dengan nilai kekayaan hampir 800 miliar dollar AS atau setara Rp 13.527 triliun (asumsi kurs Rp 16.909 per dollar AS). (NurPhoto via Getty Images/ Jaap Arriens)",
+   "source": "https://tekno.kompas.com/read/2026/05/08/09220017/perancis-naikkan-penyelidikan-terhadap-x-elon-musk-jadi-kasus-kriminal",
+   "image": "https://asset.kompas.com/crops/MUqGwGUxQVVC1MZoC94lF8URpMg=/0x0:1080x720/1200x675/filters:watermark(data/photo/2026/01/30/697c816a7af9e.png,0,-0,1)/data/photo/2025/10/01/68dcafa98f1cf.png",
+   "id": "T081",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Ilustrasi BPJS Kesehatan. Penonaktifan peserta PBI membuat publik kembali mempertanyakan perbedaan BPJS PBI dan Non PBI. (Google Gemini AI)",
+   "source": "https://nasional.kompas.com/read/2026/02/14/09260181/penonaktifan-11-juta-pbi-bpjs-benarkah-instruksi-presiden",
+   "image": "https://asset.kompas.com/crops/CPBek7UR360-FakJiSMOQn5D_hw=/256x0:2560x1536/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/02/13/698ef03fb463d.png",
+   "id": "T082",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Konsumsi alkohol bisa meningkatkan risiko tekanan darah tinggi. (SHUTTERSTOCK/ANDREYCHERKASOV)",
+   "source": "https://lifestyle.kompas.com/read/2026/11/16/163500020/kebiasaan-minum-alkohol-bisa-merusak-kesehatan-usus-ini-kata-pakar",
+   "image": "https://asset.kompas.com/crops/GDlPFTRs9VO-NL5cDzqNPVMtyP4=/0x0:1000x667/1200x675/filters:watermark(data/photo/2026/01/30/697c817ed68bb.png,0,-0,1)/data/photo/2020/04/23/5ea109e272f59.jpg",
+   "id": "T083",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Ilustrasi truk ODOL parkir di bahu jalan tol (Dok. Korlantas Polri)",
+   "source": "https://otomotif.kompas.com/read/2026/11/05/133100415/kemenhub-siapkan-penindakan-odol-ppns-diminta-hindari-pungli",
+   "image": "https://asset.kompas.com/crops/5PJ4HPGlm-ELIlnyfO84yneuL0A=/66x0:1146x720/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2026/08/24/6a8b6ad1342f6.jpeg",
+   "id": "T084",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Ilustrasi Asuransi AIA, AIA Financial. (DOKUMENTASI AIA FINANCIAL)",
+   "source": "https://money.kompas.com/read/2026/11/13/123511726/aia-tawarkan-pendampingan-pasien-dari-masuk-hingga-keluar-rumah-sakit",
+   "image": "https://asset.kompas.com/crops/HAuwnGZDVqMTNQRyMYsUc-2nSto=/382x94:1047x538/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2026/10/22/6ad9cf5d4c111.jpeg",
+   "id": "T085",
+   "raters": [
+    2,
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Ilustrasi pelecehan pada anak. Peneliti menemukan pelecehan pada anak memberikan dampak perilaku kecanduan terhadap rokok, alkohol, maupun internet saat remaja. (KOMPAS.COM/SHUTTERSTOCK)",
+   "source": "https://makassar.kompas.com/read/2025/06/17/072713278/hampir-setahun-berlalu-nasib-dosen-unm-terduga-pelaku-pelecehan-ditentukan",
+   "image": "https://asset.kompas.com/crops/lLTYhIbuix7XdN-2BvoJLnHICoQ=/0x0:750x500/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2022/06/27/62b977f47d052.jpg",
+   "id": "T086",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Ilustrasi Badan Gizi Nasional (BGN). Badan Gizi Nasional (BGN) telah mengembalikan dana ke kas negara sebesar Rp 160.370.283.211 atau sekitar 81,75 persen dari total nilai temuan sebesar Rp 196,17 miliar. (ANTARA FOTO/MUHAMMAD ADIMAJA)",
+   "source": "https://nasional.kompas.com/read/2026/11/17/13545701/bgn-ingatkan-mitra-sppg-ada-modus-penipuan-berkedok-surat-resmi-dan",
+   "image": "https://asset.kompas.com/crops/eLVH4AVs4sPnjbbTLufA7aX6NBA=/310x81:4882x3129/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/09/26/68d61b1c5b9ff.jpg",
+   "id": "T087",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Ilustrasi pemandangan kota Kuala Lumpur, Malaysia. (PIXABAY/PEXELS)",
+   "source": "https://money.kompas.com/read/2026/04/13/155522426/malaysia-hadapi-periode-kritis-pasokan-bbm-mulai-juni-2026",
+   "image": "https://asset.kompas.com/crops/F3L1BrbMAaLQ9I_zmhSjgU_5LXA=/0x0:1920x1280/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2025/05/05/6818797d7969e.jpg",
+   "id": "T088",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "The Bagong Adventure Museum Tubuh atau Museum Tubuh di kawasan Jatim Park 1, salah satu destinasi wisata di Kota Batu. (SHUTTERSTOCK/DANIEL FERRYANTO)",
+   "source": "https://travel.kompas.com/read/2026/06/28/071400027/panduan-murah-ke-jatim-park-1-dari-surabaya-modal-rp-20.000-an-naik",
+   "image": "https://asset.kompas.com/crops/GScD79zlMd_A8cjtGwxcxJgn3YI=/0x0:1000x667/1200x675/filters:watermark(data/photo/2026/01/30/697c81889b5f6.png,0,-0,1)/data/photo/2023/12/20/6582cdd0c691b.jpg",
+   "id": "T089",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 2,
+   "caption": "Ilustrasi perempuan berolahraga di atas walking pad. Ilustrasi dibantu menggunakan teknologi AI. (Dok. Maria Amanda Inkiriwang)",
+   "source": "https://lifestyle.kompas.com/read/2026/10/13/104002420/dukung-kreativitas-dan-jaga-tubuh-tetap-aktif-ini-rekomendasi-walking-pad",
+   "image": "https://asset.kompas.com/crops/hcnhAnReu3cN8UN4HhWmHSfS8xI=/0x0:1200x800/1200x675/filters:watermark(data/photo/2026/01/30/697c817ed68bb.png,0,-0,1)/data/photo/2026/10/12/6accaebd09dad.jpg",
+   "id": "T090",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Ilustrasi Jepang, ilustrasi taksi. (Dok. Unsplash/emranyousof)",
+   "source": "https://money.kompas.com/read/2026/11/16/143240326/biaya-hidup-tinggi-tekan-konsumsi-ekonomi-jepang-melemah-01-persen",
+   "image": "https://asset.kompas.com/crops/LaKQXhO5FNx0gxjdufEHNqzG750=/0x0:1920x1280/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2026/10/20/6ad70d8c4abec.jpg",
+   "id": "T091",
+   "raters": [
+    3,
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Ilustrasi gempa bumi, gempa tektonik, gempa tidak berpotensi tsunami. (SHUTTERSTOCK/Andrey VP)",
+   "source": "https://regional.kompas.com/read/2021/10/16/083313978/gempa-bali-magnitudo-48-empat-warga-meninggal-tertimbun-tanah-di-dalam",
+   "image": "https://asset.kompas.com/crops/217aGZ3QgcVuuLmLfpzEgYcNPK4=/136x0:961x550/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2021/04/14/60764c8c6d460.jpg",
+   "id": "T092",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Ilustrasi berkendara di jalan lurus (KOMPAS.com)",
+   "source": "https://otomotif.kompas.com/read/2026/05/14/143100515/merasa-ac-mobil-kurang-optimal-saat-cuaca-panas-cek-komponen-ini",
+   "image": "https://asset.kompas.com/crops/8Tf0NbhR4BZPEIRy8xVq_eLzVoY=/600x0:3840x2160/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2024/04/17/661fbdf0c04a4.png",
+   "id": "T093",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "ilustrasi sinyal radio dari antariksa. para astronot menerima sinyal misterius berjarak hampir 16.000 tahun cahaya dari Bumi. (Shutterstock/Danielle Futselaar)",
+   "source": "https://money.kompas.com/read/2026/03/10/123716426/wifi-dan-nokia-jajaki-pengembangan-infrastruktur-digital-6g",
+   "image": "https://asset.kompas.com/crops/pGzd2LT20G_mtP5-T9ddSDTlBkg=/86x0:930x563/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2018/01/12/455980137.jpg",
+   "id": "T094",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Ilustrasi wisata halal - Seorang penjual makanan halal di London, Inggris. (SHUTTERSTOCK / Alena Veasey)",
+   "source": "https://travel.kompas.com/read/2026/02/26/170000227/5-destinasi-wisata-halal-terbaik-di-asia-yang-wajib-dikunjungi-",
+   "image": "https://asset.kompas.com/crops/x2C4znTYkLEdx0p9BYsg7_te_ws=/0x0:740x493/1200x675/filters:watermark(data/photo/2026/01/30/697c81889b5f6.png,0,-0,1)/data/photo/2020/10/01/5f755fa28f929.jpg",
+   "id": "T095",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Ilustrasi pembunuhan.Warga di kawasan padat penduduk Jalan Putat Jaya Gang Sekolahan I, Kelurahan Putat Jaya, Kecamatan Sawahan, Kota Surabaya, Jawa Timur, digemparkan dengan penemuan jasad seorang wanita paruh baya pada Kamis (25/6/2026) malam. (Pexels/TREEDEO.ST)",
+   "source": "https://surabaya.kompas.com/read/2026/06/26/112321478/perempuan-asal-jombang-ditemukan-tewas-di-kos-putat-jaya-surabaya-diduga",
+   "image": "https://asset.kompas.com/crops/60WWcd0-QO2fmOWLgalwmVTJPv4=/0x0:7952x5301/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/11/18/691c32998d4fb.jpg",
+   "id": "T096",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "ilustrasi pencurian. Kawanan pembobol ATM di Tegalampel, Bondowoso, kabur usai kepergok dan duel dengan satpam. Polisi pastikan uang tunai aman dan mendalami CCTV. (ilustrasi )",
+   "source": "https://surabaya.kompas.com/read/2026/07/28/160758278/duel-sengit-satpam-vs-pembobol-atm-di-bondowoso-pelaku-kabur-usai-aksinya",
+   "image": "https://asset.kompas.com/crops/jEJKnE5hNAwEQwbv-G_plFGzmj4=/17x0:607x393/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/01/26/6977493b0960c.jpg",
+   "id": "T097",
+   "raters": [
+    1,
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Ilustrasi traveling, perjalanan wisata. (KOMPAS.com/ADE MIRANTI KARUNIA SARI)",
+   "source": "https://regional.kompas.com/read/2026/08/14/125640278/3-turis-italia-ditipu-agen-travel-di-labuan-bajo-bayar-rp-798-juta-ditolak",
+   "image": "https://asset.kompas.com/crops/aAt422cksknH3RLqDqjUcDMu0LA=/0x0:720x480/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2019/12/20/5dfc9af372cc9.webp",
+   "id": "T098",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Ilustrasi makeup. Kaleidoskop kecantikan 2025 menunjukkan arah baru riasan yang lebih ringan, perawatan kulit yang lebih sadar, dan standar cantik yang makin realistis. (FREEPIK/LOOKSTUDIO)",
+   "source": "https://lifestyle.kompas.com/read/2025/12/19/090000620/kaleidoskop-kecantikan-2025-saat-makeup-tak-lagi-menutupi-kulit-asli",
+   "image": "https://asset.kompas.com/crops/BE9f7N1etGVoqfiE5HQ5Bbm8MHE=/0x0:900x600/1200x675/filters:watermark(data/photo/2026/01/30/697c817ed68bb.png,0,-0,1)/data/photo/2024/04/17/661fc22cdae6a.jpg",
+   "id": "T099",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Ilustrasi anak sekolah dasar. (DOK.Tanoto Foundation)",
+   "source": "https://surabaya.kompas.com/read/2026/10/30/060746878/bahasa-inggris-wajib-di-sd-mulai-2027-unesa-soroti-kekurangan-guru",
+   "image": "https://asset.kompas.com/crops/IpQTBZWjKcIN1fgbW4reK2AUQcY=/0x0:1920x1280/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/11/28/69293d2feefda.jpg",
+   "id": "T100",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Ilustrasi Pelaku kejahatan ditangkap. ((KOMPAS.com/KRISTIANTO PURNOMO))",
+   "source": "https://regional.kompas.com/read/2026/05/08/081224578/satu-pria-ditangkap-karena-diduga-bantu-pelarian-kiai-tersangka-pencabulan",
+   "image": "https://asset.kompas.com/crops/xuOSZ_l6h_MSSQVSTJ75PVhK3wQ=/0x0:750x500/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2022/08/29/630c0212b020a.jpeg",
+   "id": "T101",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Ilustrasi gempa bumi hari ini. (Ilustrasi dibuat menggunakan AI Generatif (Kompas.com/Yefta Christopherus Asia Sanjaya))",
+   "source": "https://regional.kompas.com/read/2026/11/17/123021778/gempa-m-68-guncang-maluku-tenggara-bupati-sebut-tak-ada-laporan-kerusakan",
+   "image": "https://asset.kompas.com/crops/-BfLrgugfEu6fJfEoP5wQfFvgJY=/0x154:1024x837/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/01/27/69787154a1d75.png",
+   "id": "T102",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Instalasi panel surya modern yang menyediakan energi terbarukan untuk sistem irigasi yang digunakan untuk menanam tanaman di daerah kering. (SHUTTERSTOCK/HUSSAIN WARRAICH)",
+   "source": "https://lestari.kompas.com/read/2026/11/11/080300086/pertumbuhan-tanpa-emisi-melalui-teknologi-hijau-sebagai-mesin-produktivitas",
+   "image": "https://asset.kompas.com/crops/SbA57jd3M0p7Y9eqd56OOerhnB0=/0x0:1200x800/1200x675/data/photo/2026/11/10/6af30f8b83087.jpg",
+   "id": "T103",
+   "raters": [
+    2,
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Ada promo tiket Jakarta-Hong Kong Rp 3,9 jutaan hingga hotel di Bangkok Rp 500.000-an di BCA tiket.com Travel Fair 2026. Simak selengkapnya. (Shutterstock)",
+   "source": "https://travel.kompas.com/read/2026/04/26/110600027/bca-tiketcom-travel-fair-2026-ada-promo-tiket-pesawat-jakarta-hong-kong-pp-rp",
+   "image": "https://asset.kompas.com/crops/9IyxXoJP7Tu7CJKXkbnrnfOWVjA=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c81889b5f6.png,0,-0,1)/data/photo/2020/02/22/5e50ac1949f54.jpg",
+   "id": "T104",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 3,
+   "caption": "Rincian harga BBM wilayah Makassar, Sulawesi Selatan, per 1 Maret 2026. (SHUTTERSTOCK/BAGUS UPC)",
+   "source": "https://makassar.kompas.com/read/2026/09/15/083000078/solar-langka-sopir-travel-pinrang-palu-rogoh-kocek-rp-1-7-juta-untuk-biaya",
+   "image": "https://asset.kompas.com/crops/pYU3imnUtJVHwSRN--dOSfxJ_uQ=/128x25:915x549/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2023/11/22/655d86c22e3e4.jpg",
+   "id": "T105",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Pemesanan tiket pesawat naik 3 kali lipat saat Nataru. Tiket.com menawarkan promo diskon hingga 75 persen untuk libur akhir tahun. (Unsplash)",
+   "source": "https://travel.kompas.com/read/2026/10/23/083849027/pemesanan-tiket-pesawat-dan-hotel-naik-hingga-3-kali-lipat-saat-libur-nataru",
+   "image": "https://asset.kompas.com/crops/Tzn7il3LZJL4m5VlcrTDfYwP5uU=/166x0:1786x1080/1200x675/filters:watermark(data/photo/2026/01/30/697c81889b5f6.png,0,-0,1)/data/photo/2026/08/19/6a85392d3f262.jpg",
+   "id": "T106",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi penanganan bencana di Sumatera. (Dok. Kementerian PU)",
+   "source": "https://nasional.kompas.com/read/2026/04/14/17050181/survei-cyrus-738-persen-publik-puas-dengan-penanganan-bencana-sumatera-tapi",
+   "image": "https://asset.kompas.com/crops/7b7rhLi1vVww48Zv5004j-qC_SA=/61x0:1414x902/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/01/17/696bb09988a85.jpeg",
+   "id": "T107",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi truk terjebak lahar Semeru - Truk terjebak banjir lahar hujan Gunung Semeru, Rabu (28/1/2026) (Dok. Warga)",
+   "source": "https://surabaya.kompas.com/read/2026/10/31/121657978/4-truk-pasir-di-lumajang-terjebak-banjir-lahar-gunung-semeru",
+   "image": "https://asset.kompas.com/crops/L9WAjxPOhojGQXUBbas6EGa63OU=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/01/28/697a03cd3d563.jpg",
+   "id": "T108",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi Kota Guangzhou di China. (Dok. Pixabay/彪 邱)",
+   "source": "https://travel.kompas.com/read/2025/04/15/120100727/transnusa-rute-denpasar-guangzhou-terbang-perdana-13-april-2025-tiket-mulai",
+   "image": "https://asset.kompas.com/crops/wlS8oTWZGanANnSWuxMmy-6fPJ8=/0x0:1920x1280/1200x675/filters:watermark(data/photo/2026/01/30/697c81889b5f6.png,0,-0,1)/data/photo/2023/03/10/640a9fa12f15d.jpg",
+   "id": "T109",
+   "raters": [
+    3,
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi logo PSI. (KOMPAS.COM/Fristin Intan Sulistyowati)",
+   "source": "https://nasional.kompas.com/read/2026/01/26/15163661/apa-arti-kandang-dalam-politik-partai",
+   "image": "https://asset.kompas.com/crops/oqHzalt9Fdu1dRWaBzWdZPsFGSg=/122x76:1036x686/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/07/14/6874c93502d7e.jpg",
+   "id": "T110",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi kencan di taman. (Dok. Shutterstock/Dragon Images)",
+   "source": "https://megapolitan.kompas.com/read/2026/11/17/12370601/taman-taman-di-jakarta-ini-bisa-jadi-tempat-kencan-tak-perlu-keluar",
+   "image": "https://asset.kompas.com/crops/DP4L_GAB4252v5d327r2GbAnv2o=/0x0:780x520/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2022/07/14/62cfbdd4be427.jpg",
+   "id": "T111",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi Banjir Bencana Hidrometeorologi: pengertian, penyebab, jenis, dan dampaknya. (canva.com)",
+   "source": "https://nasional.kompas.com/read/2025/11/28/15502831/dpr-desak-investigasi-penyebab-banjir-longsor-di-sumatera-apakah-murni-cuaca",
+   "image": "https://asset.kompas.com/crops/-pg-23Q4wbTLYVr8OLA8lGvEKV8=/0x69:1748x1234/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/11/28/692961a316ad0.png",
+   "id": "T112",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi longsor. Longsor menjadi bencana alam paling dominan di Temanggung. (KOMPAS.COM/HANDOUT)",
+   "source": "https://regional.kompas.com/read/2026/01/02/194223378/bpbd-temanggung-51-bencana-di-2025-longsor-mendominasi",
+   "image": "https://asset.kompas.com/crops/zog0abmXvnITY__Bg6KGEsHrW64=/0x0:1200x800/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/01/23/6791a1642a6e7.jpg",
+   "id": "T113",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi kredit, kredit perbankan. Bank optimistis kredit dan likuiditas tetap tumbuh hingga akhir tahun. (SHUTTERSTOCK/JUICY FOTO)",
+   "source": "https://money.kompas.com/read/2025/12/19/200000326/relaksasi-kredit-untuk-debitur-korban-bencana-sumatera--skema-angka-dan",
+   "image": "https://asset.kompas.com/crops/XSEgUT3OUNM54pqFsOhFxmWCMEs=/100x67:900x600/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2024/01/19/65aa57f01a4d7.jpg",
+   "id": "T114",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Suasana Pantai Sanur di Denpasar, Bali (23/10/2023). (SHUTTERSTOCK)",
+   "source": "https://denpasar.kompas.com/read/2023/11/17/050500078/prakiraan-cuaca-di-denpasar-hari-ini-17-november-2023---siang-hingga-malam",
+   "image": "https://asset.kompas.com/crops/Lm7Ijfju6NfGChKzl1kfL5f21zM=/0x0:999x666/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2023/09/15/65042d4e890cf.jpg",
+   "id": "T115",
+   "raters": [
+    1,
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi lalu lintas, kondisi transportasi publik di Jakarta. (UNSPLASH/DAPUR MELODI)",
+   "source": "https://otomotif.kompas.com/read/2025/12/01/091200115/proyeksi-volume-lalu-lintas-keluar-jabodetabek-saat-libur-nataru-2025-26",
+   "image": "https://asset.kompas.com/crops/yp3lYQ6Bpgjr-bABP08DuSDZGJE=/319x0:5795x3651/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2025/11/26/6926b90614066.jpg",
+   "id": "T116",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi transaksi di Gerbang Tol (JASA MARGA)",
+   "source": "https://otomotif.kompas.com/read/2024/03/13/063100915/mudik-2024-menhub-sebut-ada-diskon-tarif-tol-dan-transportasi",
+   "image": "https://asset.kompas.com/crops/nRbELYpbPDpeYBM4nDxmbhamKoE=/0x0:1235x823/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2023/12/30/658fbd17f2af1.jpg",
+   "id": "T117",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi kualitas udara tidak sehat. (KOMPAS.com/KRISTIANTO PURNOMO)",
+   "source": "https://edukasi.kompas.com/read/2026/10/18/090516771/kualitas-udara-surabaya-tidak-sehat-pada-pagi-hari-pakar-its-jelaskan",
+   "image": "https://asset.kompas.com/crops/8ZL1XSP3Gf6YHW3pm1JvsE9x-ro=/26x0:976x633/1200x675/filters:watermark(data/photo/2026/01/30/697c819b2dbec.png,0,-0,1)/data/photo/2018/09/03/427519202.jpg",
+   "id": "T118",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi garis bantal di wajah saat bangun tidur (Pexels/Pexels)",
+   "source": "https://lifestyle.kompas.com/read/2026/11/06/180000420/bekas-garis-bantal-di-wajah-saat-bangun-tidur-apa-penyebabnya-",
+   "image": "https://asset.kompas.com/crops/3LnhKGBzsQctaIOv1c5r1KMWJBA=/883x0:6067x3456/1200x675/filters:watermark(data/photo/2026/01/30/697c817ed68bb.png,0,-0,1)/data/photo/2026/11/05/6aec752f9bcd7.jpg",
+   "id": "T119",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "B",
+   "blok": 4,
+   "caption": "Ilustrasi olahraga wall sit. Lima gerakan sederhana tanpa alat ini disebut bisa membantu membakar lemak perut dan menjaga metabolisme tetap aktif setelah usia 50. (Google Gemini AI)",
+   "source": "https://lifestyle.kompas.com/read/2026/10/14/150300720/exercise-snacks-olahraga-5-menit-yang-disebut-baik-untuk-mental",
+   "image": "https://asset.kompas.com/crops/GzFpEyQeHyieeZkawJMCynJlg_U=/8x0:1160x768/1200x675/filters:watermark(data/photo/2026/01/30/697c817ed68bb.png,0,-0,1)/data/photo/2026/04/03/69cf6d4a24338.png",
+   "id": "T120",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Hujan deras yang mengguyur wilayah Kecamatan Sadang, Kabupaten Kebumen, pada Kamis (12/2/2026) malam, memicu terjadinya tanah longsor yang menimpa sebuah rumah warga di Dusun Karanganyar, Desa Seboro. (Dok Polres Kebumen )",
+   "source": "https://regional.kompas.com/read/2026/02/14/120906678/hujan-deras-tengah-malam-picu-longsor-di-sadang-rumah-lansia-69-tahun-di",
+   "image": "https://asset.kompas.com/crops/iXwGazRW0lvyfZkZlaiGaBCrW-o=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/02/14/698fb3f4176f9.jpg",
+   "id": "T121",
+   "raters": [
+    1,
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Situasi jalan macet akibat banjir menerjang Jalan Lintas Sumatera di Desa Bandar Durian, Kecamatan Aek Natas, Sumatera Utara, Sabtu (24/10/2026). (Dok BPBD Sumut )",
+   "source": "https://medan.kompas.com/read/2026/10/25/190817878/banjir-dan-longsor-terjang-3-wilayah-di-sumut-jalan-sempat-lumpuh",
+   "image": "https://asset.kompas.com/crops/b7mU0ZvBomdZPGd67Zx5Nmnz0Io=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/10/25/6added94c4b09.jpg",
+   "id": "T122",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Banjir bandang dan longsor menerjang dua wilayah kecamatan di Sumedang, Jawa Barat, Kamis (25/3/2021) sore. (Dok. BPBD Sumedang)",
+   "source": "https://regional.kompas.com/read/2021/03/25/210139378/4-warga-sumedang-hanyut-terbawa-banjir-bandang-1-belum-ditemukan",
+   "image": "https://asset.kompas.com/crops/p7e-BPRKYvvtoougm_rHqr6Joyw=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2021/03/25/605c806f5888f.jpg",
+   "id": "T123",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Direktur Guru Pendidikan Anak Usia Dini dan Pendidikan Nonformal (PAUD PNF), Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen), Suparto saat mengajar anak TK di Pekanbaru. (DOK. Kemendikdasmen)",
+   "source": "https://edukasi.kompas.com/read/2026/10/25/150900771/97-persen-paud-dikelola-swasta-guru-besar-upi-soroti-pentingnya-pendanaan",
+   "image": "https://asset.kompas.com/crops/bHbXyRYN5M4VwRT9rIKciho7Ua8=/0x0:1499x1000/1200x675/filters:watermark(data/photo/2026/01/30/697c819b2dbec.png,0,-0,1)/data/photo/2025/11/24/6923b419d7680.jpg",
+   "id": "T124",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Banjir bandang kembali melanda sejumlah desa di Kabupaten Aceh Tenggara, Aceh, setelah hujan dengan intensitas tinggi mengguyur wilayah tersebut sejak Minggu (13/9/2026) sore. (Foto: Dok. BPBA )",
+   "source": "https://regional.kompas.com/read/2026/09/15/093804978/banjir-dan-longsor-landa-3-kabupaten-di-aceh-1-orang-meninggal-dan-13-luka",
+   "image": "https://asset.kompas.com/crops/9rYclTLhDGU4rNY6OVHH21MZuXg=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/09/14/6aa77eac11fac.jpg",
+   "id": "T125",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Proses evakuasi korban tertemper kereta di Jalan Anggrek, Tanah Sareal, Kota Bogor, Jawa Barat, Selasa (3/11/2026). (Dok. Polresta Bogor Kota)",
+   "source": "https://megapolitan.kompas.com/read/2026/11/03/16184481/lansia-83-tahun-tewas-diduga-tertemper-kereta-di-bogor-masinis-sempat",
+   "image": "https://asset.kompas.com/crops/Z9radZSMAC1vpoqv6doq3oKRAgc=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/11/03/6ae9a12592936.jpg",
+   "id": "T126",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Petugas PDAM sedang mengisi air di kolam buaya Kebun Binatang Semarang Zoo, Jawa Tengah pada Oktober 2026. (Dok. Semarang Zoo)",
+   "source": "https://regional.kompas.com/read/2026/10/30/211802478/kolam-buaya-semarang-zoo-kering-terdampak-kemarau-pengelola-pastikan-satwa",
+   "image": "https://asset.kompas.com/crops/1v0R-aDfl6FT-XoLA-_0SdI5xKk=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/10/30/6ae4425bdfe44.jpg",
+   "id": "T127",
+   "raters": [
+    1,
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Kebakaran yang melanda pabrik pembuat kipas angin milik PT Desen Nusantara Anugerah di kawasan Pasar Kemis, Kabupaten Tangerang, masih dalam penanganan petugas hingga Jumat (6/11/2026) pukul 16.00 WIB. (Bidik Layar Instagram @abouttng)",
+   "source": "https://megapolitan.kompas.com/read/2026/11/07/11452511/kebakaran-pabrik-kipas-angin-di-tangerang-padam-setelah-16-jam-terbakar",
+   "image": "https://asset.kompas.com/crops/Bw5dYctf4A3TG1ccgVp1EiSnZjo=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/11/06/6aeda601dc74a.jpg",
+   "id": "T128",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Direktur Utama PT Kilang Pertamina Balikpapan Bambang Harimurti dan Plt Direktur Utama PT Pertamina Trans Kontinental Eko Cahyadi menandatangani nota kesepahaman kerja sama pengelolaan infrastruktur maritim di Balikpapan, Jumat (5/6/2026). (Dok. Pertamina )",
+   "source": "https://nasional.kompas.com/read/2026/06/11/16462751/perkuat-sinergi-maritim-kilang-pertamina-balikpapan-dan-pertamina-trans",
+   "image": "https://asset.kompas.com/crops/YnX3mOMg8D78nL6sxY8zJSCkDxY=/0x0:1280x853/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/06/11/6a2a82f988289.jpeg",
+   "id": "T129",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Bus baru PO Juragan 99 Trans, bus tingkat dengan 19 bangku eksklusif (Juragan 99 Trans )",
+   "source": "https://otomotif.kompas.com/read/2026/03/05/164100415/harga-tiket-bus-jakarta-malang-sebelum-arus-mudik-mulai-rp-300.000",
+   "image": "https://asset.kompas.com/crops/SJXVtWQN7RcPXfCguAzKec8s9ss=/57x38:1280x854/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2025/12/30/69538eadb9ea0.jpg",
+   "id": "T130",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Sekda Jabar, Herman Suryatman saat ditemui di Gedung Sate, Kota Bandung, Rabu (25/2/2026). (Dokumentasi Humas Jabar)",
+   "source": "https://bandung.kompas.com/read/2026/10/13/200317578/antisipasi-gempa-sesar-lembang-pemprov-jabar-dorong-perkantoran-siapkan",
+   "image": "https://asset.kompas.com/crops/ORv_gd2kXYce5pgaMs6vBcvaxBw=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/02/25/699efb9c49020.jpg",
+   "id": "T131",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Pemandangan Raja Ampat dari Bukit Pianemo. (Indonesia Travel)",
+   "source": "https://travel.kompas.com/read/2022/11/17/214005827/raja-ampat-masuk-30-tempat-wisata-terbaik-2023-versi-lonely-planet",
+   "image": "https://asset.kompas.com/crops/LVzvKeOXtl1LOqo9sY21hBCZvXE=/0x0:1280x853/1200x675/filters:watermark(data/photo/2026/01/30/697c81889b5f6.png,0,-0,1)/data/photo/2022/03/25/623d346fd083d.jpg",
+   "id": "T132",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Indonesia Financial Group (IFG) membeberkan aksi akuisisi yang dilakukan PT Asuransi Jiwa IFG (IFG Life) ke PT Asuransi Jiwa Inhealth Indonesia (Mandiri Inhealth) merupakan strategi pengembangan perusahaan di 2024. (Dok IFG)",
+   "source": "https://money.kompas.com/read/2024/08/04/090000726/ifg-life-bakal-lelang-3-properti-untuk-perkuat-aset-finansial",
+   "image": "https://asset.kompas.com/crops/-VlTKhTgtQNJ33ytAVpMAEkxR7E=/30x0:662x421/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2024/02/27/65ddfb2e88a11.jpg",
+   "id": "T133",
+   "raters": [
+    1,
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "Anggota grup K-Pop Shinee, Choi Min-ho. (dok. Instagram)",
+   "source": "https://lifestyle.kompas.com/read/2026/08/02/154442020/terlalu-rajin-olahraga-minho-shinee-ditegur-dokter-soal-kerusakan-otot",
+   "image": "https://asset.kompas.com/crops/qtebkl7H4xY_2Eaus3WcvaiG9EM=/0x161:1200x961/1200x675/filters:watermark(data/photo/2026/01/30/697c817ed68bb.png,0,-0,1)/data/photo/2026/08/02/6a6efad388ee8.jpg",
+   "id": "T134",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 1,
+   "caption": "PT Brantas Abipraya (Persero) bersama Kementerian Pekerjaan Umum (PU) mempercepat pemulihan infrastruktur dan penataan kawasan terdampak banjir di Aceh. (DOK. PT BRANTAS ABIPRAYA (PERSERO))",
+   "source": "https://money.kompas.com/read/2026/11/04/201433026/brantas-abipraya-tangani-pemulihan-infrastruktur-pascabanjir-di-16-desa-aceh",
+   "image": "https://asset.kompas.com/crops/fONJ6_4g19m0C9tgw56FTrLIZgY=/0x133:1600x1200/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2026/11/04/6aeb2eb928714.jpeg",
+   "id": "T135",
+   "raters": [
+    1
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Presiden RI Prabowo Subianto di Munas HIPMI XVIII di Bandar Lampung, Rabu (10/6/2026). (Sekretariat Presiden RI)",
+   "source": "https://nasional.kompas.com/read/2026/06/11/06504391/prabowo-tegaskan-hilirisasi-kita-menuju-swasembada-energi",
+   "image": "https://asset.kompas.com/crops/IlvnPQ2vpcT_pg1YoAoHT6JZjrE=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/06/10/6a2927ebda960.jpg",
+   "id": "T136",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Sebuah jembatan di Dusun Sidomulyo, Desa Wates, Kecamatan Wates, Kabupaten Blitar, Jawa Timur ambrol, Senin (2/11/2026). (Dok. BPBD Kabupaten Blitar)",
+   "source": "https://surabaya.kompas.com/read/2026/11/02/162606578/jembatan-penghubung-desa-di-blitar-ambrol-tak-bisa-dilewati-kendaraan",
+   "image": "https://asset.kompas.com/crops/XE8S0FPnnG4_diN0UWeRGDBdVOc=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/11/02/6ae84fa17d993.jpg",
+   "id": "T137",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Presiden Prabowo Subianto saat meresmikan LRT Jakarta rute Kelapa Gading-Manggarai di Stasiun LRT Manggarai, Jakarta, Rabu (16/9/2026). (Tangkapan layar Youtube Sekretariat Presiden.)",
+   "source": "https://nasional.kompas.com/read/2026/09/16/15570231/prabowo-akan-kumpulkan-kepala-daerah-untuk-launching-gerakan-indonesia-asri",
+   "image": "https://asset.kompas.com/crops/uQ18u40eQGBeQ0ZUPWuLV7-dOdM=/221x0:1330x739/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/09/16/6aaa46327d612.jpeg",
+   "id": "T138",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Menko Polkam RI Budi Gunawan (kanan) saat menerima kunjungan kehormatan Duta Besar Amerika Serikat untuk Indonesia, Kamala Shirin Lakhdir di kantor Kemenko Polkam, Jakarta, Selasa (17/12/2024). (Dokumentasi Humas Kemenko Polkam)",
+   "source": "https://nasional.kompas.com/read/2024/12/17/21413401/indonesia-dan-as-tingkatkan-kerja-sama-politik-dan-keamanan",
+   "image": "https://asset.kompas.com/crops/oKh_IhMJGyxev9zJ1g3n6FYUsB0=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2024/12/17/67616a82a293f.jpg",
+   "id": "T139",
+   "raters": [
+    1,
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Director General of Islamic Education Amin Suyitno (center). The Ministry of Religious Affairs is preparing a quota for Teacher Professional Education (PPG) for more than 40,000 teachers in 2026 to reduce the number of teachers without educational certification. (kemenag.go.id)",
+   "source": "https://go.kompas.com/read/2026/11/03/155142674/ministry-of-religious-affairs-prepares-ppg-quota-for-400000-religious-teachers",
+   "image": "https://asset.kompas.com/crops/XB3z2hPEjY2_NWd7zcFAOiDZK1k=/119x79:1069x713/1200x675/data/photo/2025/12/31/69548e0c2c1e2.jpg",
+   "id": "T140",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "DHL Express meluncurkan layanan Heavy Weight Express (HWX), solusi pengiriman udara ekspres untuk kargo berat hingga 1.000 kilogram per koli atau 3.000 kilogram per pengiriman. (DOKUMENTASI DHL)",
+   "source": "https://money.kompas.com/read/2026/06/03/154100826/dukung-ekspor-indonesia-dhl-luncurkan-layanan-kargo-cepat-hingga-3-ton",
+   "image": "https://asset.kompas.com/crops/YHJt6TQHTramCE5WGnDLv5_u7MU=/0x97:1222x912/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2026/06/03/6a1fe526679b0.jpeg",
+   "id": "T141",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Unit VAR Mobile yang akan digunakan pada babak championship series Liga 1 2023-24 mulai Selasa (14/5/2024) mendatang. (Dokumentasi PT Liga Indonesia Baru)",
+   "source": "https://bola.kompas.com/read/2024/05/10/19000058/var-mobile-meluncur-ke-arena-championship-series-teknologi-baru-liga-1",
+   "image": "https://asset.kompas.com/crops/7A232lxwhGYK383v9wr_ks8Qfr0=/600x0:3840x2160/1200x675/filters:watermark(data/photo/2026/01/30/697c8163c3944.png,0,-0,1)/data/photo/2024/05/10/663dd962324d7.jpg",
+   "id": "T142",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Kasdim 0406/Lubuklinggau Mayor Czi Epi Sugiharto didampingi Pasi Intel Kapten Mursal saat diwawancarai, Kamis (12/11/2026). (Eko Hepronis)",
+   "source": "https://regional.kompas.com/read/2026/11/13/092207978/korban-kecelakaan-maut-di-lubuklinggau-pakai-seragam-tni-kodim-0406",
+   "image": "https://asset.kompas.com/crops/-r8g5vGkmDxgulWWuhSJiHhLW00=/63x0:1073x673/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/11/13/6af673ce90894.jpg",
+   "id": "T143",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Menjajal trek baru ijin praktik bikin SIM C di Satpas Daan Mogot Jakarta Barat, Senin (7/8/2023). (Menjajal trek baru ijin praktik bikin SIM C di Satpas Daan Mogot Jakarta Barat, Senin (7/8/2023). )",
+   "source": "https://otomotif.kompas.com/read/2026/11/14/114200315/alasan-pengemudi-perlu-perpanjang-sim-tiap-5-tahun",
+   "image": "https://asset.kompas.com/crops/Uy3iW8D77MDTVHvHWPe1HpzZj14=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2023/08/07/64d0926ea6926.jpg",
+   "id": "T144",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Menko Perekonomian dan Pangan Zulkifli Hasan singgung kerja cepat ala Kopassus dalam peringatan HUT ke-52 Himpunan Nelayan Seluruh Indonesia (HNSI) (Hafizh Wahyu Darmawan)",
+   "source": "https://megapolitan.kompas.com/read/2025/05/26/16492561/klaim-program-pangan-cepat-tercapai-zulhas-kita-seperti-kopassus",
+   "image": "https://asset.kompas.com/crops/KUs0hrXEqDbRYk5aeknbA1lV-L0=/507x426:1073x803/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/05/26/68342e5dbb3e5.jpg",
+   "id": "T145",
+   "raters": [
+    2,
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Chairman of Commission III Habiburokhman during an interview at the Parliament Building in Jakarta, Thursday (5/11/2026). (Rahel Narda)",
+   "source": "https://go.kompas.com/read/2026/11/09/160435074/speeding-up-discussions-on-dim-of-asset-forfeiture-bill-habiburokhman-if-possible",
+   "image": "https://asset.kompas.com/crops/4B7yJIQ-hKW2PF4ra6rx8Gad2Bw=/0x0:0x0/1200x675/data/photo/2026/11/05/6aec0701e39ab.jpg",
+   "id": "T146",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Chairman of the Central Leadership Council (PP) of Muhammadiyah Haedar Nashir at the opening of the Muhammadiyah Tanwir at the Muhammadiyah University Campus in Palu, Central Sulawesi, on Saturday (14/11/2026). (YouTube Sekretariat Presiden )",
+   "source": "https://go.kompas.com/read/2026/11/14/164937174/pp-muhammadiyah-chairman-discusses-economic-vampires-and-elite-greed",
+   "image": "https://asset.kompas.com/crops/ky46olHbCa09me6x8uTxF-t-aEg=/0x0:0x0/1200x675/data/photo/2026/11/14/6af81199c9389.png",
+   "id": "T147",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Aksi pemalakan terhadap sopir travel di Kolong Tol Kayu Besar, Cengkareng, Jakarta Barat, Rabu (11/11/2026) sore. (IG: @warga.jakbar)",
+   "source": "https://megapolitan.kompas.com/read/2026/11/16/13134351/sopir-travel-dipalak-pak-ogah-di-cengkareng-jakbar-bayar-rp-600000-tetapi",
+   "image": "https://asset.kompas.com/crops/Pu8sfCLXam1Dw-ebJZGJDCqTLCk=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/11/16/6afa9a24c4a0c.jpeg",
+   "id": "T148",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Emira E. Oepangat, Direktur Eksekutif AAJI; Andy F. Noya, Founder Yayasan Benih Baik; dan Karin Zulkarnaen, Kepala Departemen Marketing AAJI bersama perwakilan PT AXA Mandiri Financial Services dan PT Asuransi BRI Life saat simbolis penyerahan asuransi mikro kepada Yayasan Benih Baik di Graha AAJI Jakarta, (19/10/2026) Dok AAJI (CIT)",
+   "source": "https://money.kompas.com/read/2026/10/19/212300626/aaji-salurkan-donasi-untuk-korban-gempa-ntt",
+   "image": "https://asset.kompas.com/crops/qDWCIyYxbODdOkCaqWkocr4Q2yE=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2026/10/19/6ad6124b679c2.png",
+   "id": "T149",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 2,
+   "caption": "Sejumlah petugas tengah menangani dampak bencana alam yang terjadi di Kabupaten Cianjur, Jawa Barat. Dalam sepekan terakhir, belasan bencana terjadi di sejumlah wilaha di Cianjur (Dok. Go Go Paws Rescue)",
+   "source": "https://bandung.kompas.com/read/2026/05/05/191019278/tak-hanya-cuaca-ekstrem-ini-faktor-nonalam-pemicu-bencana-di-cianjur",
+   "image": "https://asset.kompas.com/crops/-YKbm3AX4Xc6nctAZx7b0stfMQA=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/05/05/69f9903bb57c3.jpg",
+   "id": "T150",
+   "raters": [
+    2
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Salah satu miniatur produk yang dikembangkan Len. Ke depan PT Len Industri akan mendorong penguasaan empat bidang teknologi strategis, yakni yakni semikonduktor, AI, radar, serta satelit dan penginderaan jauh. (Dok LEN)",
+   "source": "https://money.kompas.com/read/2026/10/08/114200826/pt-len-industri-dorong-penguasaan-ai-hingga-semikonduktor",
+   "image": "https://asset.kompas.com/crops/nTAQdE14smTkOh937-bzAGVTtZI=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2026/10/08/6ac6f1827f16d.jpeg",
+   "id": "T151",
+   "raters": [
+    3,
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Curhat seorang pria usai mengalami kecelakaan di jalan tol (tiktok.com/@squillliams)",
+   "source": "https://otomotif.kompas.com/read/2023/11/03/134100415/pria-ini-kecelakaan-fatal-di-jalan-tol-selamat-karena-airbag-padahal-mobil",
+   "image": "https://asset.kompas.com/crops/imst5qxAKE4aGS9n39g2ZLGubqk=/393x0:2454x1374/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2023/11/03/65447dad08ba2.png",
+   "id": "T152",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "BSI International Expo 2026 menghadirkan penawaran cashback hingga Rp 10 juta untuk kepemilikan mobil, serta cashback hingga Rp 2 juta dengan cicilan 0 persen untuk pembelian motor. (Dok. BSI)",
+   "source": "https://biz.kompas.com/read/2026/10/21/190814628/berburu-promo-di-bsi-expo-2026-ada-cashback-pembelian-mobil-hingga-rp-10-juta",
+   "image": "https://asset.kompas.com/crops/feVwG3NsuBKXK6OSeBD1Zhy9GPc=/0x0:1200x800/1200x675/data/photo/2026/10/21/6ad8aac1b4cea.jpg",
+   "id": "T153",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Lanskap Bandara Soekarno-Hatta, Kota Tangerang, Banten. (DOK. Humas Angkasa Pura)",
+   "source": "https://megapolitan.kompas.com/read/2026/11/06/21130131/pendangkalan-kali-perancis-jadi-penyebab-banjir-yang-ganggu-penerbangan",
+   "image": "https://asset.kompas.com/crops/MkFpWYz_6YMyz9PIVXY_O7Z6YXs=/0x0:3120x2080/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2024/06/14/666c216ca6bb3.jpeg",
+   "id": "T154",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Seorang pria berinisial MAW (29) ditangkap polisi di kawasan Jalan Muwardi, Grogol Petamburan, Jakarta Barat, setelah mencuri sepeda motor sport Kawasaki ZX 250 RR milik warga di Kota Malang, Jawa Timur. (Humas Polres Metro Jakbar)",
+   "source": "https://megapolitan.kompas.com/read/2026/11/17/21390971/sakit-hati-di-phk-eks-karyawan-curi-motor-sport-milik-bos-diler-di-malang",
+   "image": "https://asset.kompas.com/crops/EpE-_zQbvE0z5G1J_p0WEb0N3Yg=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/11/17/6afc5bc011db4.jpeg",
+   "id": "T155",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Polisi melakukan olah TKP kecelakaan di Desa Megati, Kecamatan Selemadeg Timur, Kabupaten Tabanan, Provinsi Bali, Senin (30/9/2024). Sopir pikap tewas di tempat karena tergencet. (Humas Polres Tabanan.)",
+   "source": "https://denpasar.kompas.com/read/2024/09/30/154836878/mobil-pikap-tabrak-pohon-di-tabanan-sopir-tewas-tergencet",
+   "image": "https://asset.kompas.com/crops/98vz_qIVBjYs8KHglGsysZB0j5I=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2024/09/30/66fa616102432.jpg",
+   "id": "T156",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Rektor Universitas Gadjah Mada (UGM), Prof Ova Emilia saat jumpa pers terkait tujuh mahasiswa telah dipulangkan. Sebelumnya tujuh mahasiswa tersebut diamankan di Polda DIY saat peristiwa kericuhan 10 November 2026. (Wijaya Kusuma)",
+   "source": "https://yogyakarta.kompas.com/read/2026/11/12/130034678/rektor-ugm-ungkap-kondisi-mahasiswa-yang-masih-dirawat-setelah-kericuhan",
+   "image": "https://asset.kompas.com/crops/2QGFy8gl51wzY5_APUID_b5tg-M=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/11/12/6af52fdcbfbec.jpg",
+   "id": "T157",
+   "raters": [
+    1,
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Petugas KAI Daop 9 Jember melakukan penguatan lokasi longsoran lintas Kalibaru-Mrawan, Selasa (3/11/2026). (Dok. KAI Daop 9 Jember )",
+   "source": "https://travel.kompas.com/read/2026/11/03/160400127/operasional-ka-jember-banyuwangi-normal-lagi-usai-longsor-di-rel",
+   "image": "https://asset.kompas.com/crops/MwwmI5g0dOWQl176aHeKoFJrPoE=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c81889b5f6.png,0,-0,1)/data/photo/2026/11/03/6ae96956933e3.jpg",
+   "id": "T158",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Aparat gabungan dan warga evakuasi mobil yang terjebak saat membawa bantuan untuk korban gempa di Pulau Palue (Dok. Polres Sikk)",
+   "source": "https://regional.kompas.com/read/2026/08/31/111825178/sempat-terjebak-longsor-di-palue-sikka-dump-truck-pembawa-bantuan-gempa",
+   "image": "https://asset.kompas.com/crops/_4BI6D-txwIU6Mf6A920JGvJspA=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/08/30/6a93f47e8a7d3.jpg",
+   "id": "T159",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Sumbu Kebangsaan Ibu Kota Nusantara (IKN) (PTPP/GALANG SINU SUSILO)",
+   "source": "https://ikn.kompas.com/read/2024/08/04/160000487/raksasa-jepang-sojitz-corporation-minat-investasi-properti-di-ikn",
+   "image": "https://asset.kompas.com/crops/BuNS_dh_4khDU26gs1bTUN-MeDA=/0x0:1168x779/1200x675/data/photo/2024/08/04/66af0325d924a.png",
+   "id": "T160",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Pesawat Saudi Arabia Airlaines yang mengangkut pemulangan jamaah haji kloter 12 asal Malang. (Dok. Humas Bandara Juanda )",
+   "source": "https://surabaya.kompas.com/read/2026/06/04/174535178/jemaah-haji-asal-malang-meninggal-di-pesawat-jelang-mendarat-di-bandara",
+   "image": "https://asset.kompas.com/crops/hiOqxpG4LZQim9m0CPi_e8JhaXA=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/06/04/6a214c87b03fa.jpeg",
+   "id": "T161",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Perdana Menteri Israel Benjamin Netanyahu mengepalkan tangan sebagai reaksi saat exit poll pertama pemilu Israel diumumkan di Yerusalem, 28 Oktober 2026. (AFP/JALAA MAREY)",
+   "source": "https://internasional.kompas.com/read/2026/11/16/194343670/oposisi-israel-tuding-netanyahu-lakukan-upaya-kudeta-jebak-partai-arab",
+   "image": "https://asset.kompas.com/crops/pmuIzLi7R0j_CZHmprKpFzcCAs8=/0x0:2000x1333/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/11/16/6afaf9f7c7fcb.jpg",
+   "id": "T162",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Deklarasi Gerakan Pilah Sampah sekaligus pencanangan Hari Ulang Tahun ke-499 Kota Jakarta, Jaga Jakarta Bersih; Pilah Sampah (Dok. jakarta.go.id )",
+   "source": "https://megapolitan.kompas.com/read/2026/05/13/17343611/pilah-dari-sumber-cara-jakarta-keluar-dari-darurat-sampah",
+   "image": "https://asset.kompas.com/crops/4KbElhJ-zqzNhOrWusTcYi2ThmI=/0x0:4160x2773/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/05/13/6a04506b8d350.jpeg",
+   "id": "T163",
+   "raters": [
+    2,
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Seorang wanita berinisial AM (51), pembonceng sepeda motor dilaporkan tewas usai ditabrak truk TNI di Jalan Utan Jati, Kalideres, Jakarta Barat pada Jumat (3/4/2026) pagi. (Foto: Dokumentasi pribadi warga)",
+   "source": "https://megapolitan.kompas.com/read/2026/04/03/18303991/truk-tni-tabrak-motor-di-kalideres-jakbar-pembonceng-tewas",
+   "image": "https://asset.kompas.com/crops/IqCW3LdepRaZXvZTwjoHNO09eN0=/258x17:1268x690/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/04/03/69cf9b742e514.jpg",
+   "id": "T164",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 3,
+   "caption": "Pusat gempa pada Selasa (23/1/2018) pukul 13.34 WIB berdasarkan data USGS. (GOOGLE EARTH, USGS)",
+   "source": "https://sains.kompas.com/read/2018/01/27/190600023/mewaspadai-bahaya-laten-gempa-bumi-di-selatan-jawa",
+   "image": "https://asset.kompas.com/crops/_-ndvokz_Wd3lOM4q6Y6daztj6o=/0x0:1000x667/1200x675/filters:watermark(data/photo/2026/01/30/697c8179dbad7.png,0,-0,1)/data/photo/2018/01/23/27629938013.jpg",
+   "id": "T165",
+   "raters": [
+    3
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Kepala Badan Riset dan Sumber Daya Manusia Kelautan dan Perikanan Kementerian Kelautan dan Perikanan (KKP) Sjarief Widjaja. (DOK. Humas Kementerian KP)",
+   "source": "https://nasional.kompas.com/read/2021/06/14/13223111/sidang-dengan-komnas-kajiskan-brsdm-kkp-bahas-estimasi-stok-sumber-daya-ikan",
+   "image": "https://asset.kompas.com/crops/NUx0m_YDM9OpngqO5k4SSgzuYJk=/95x0:1175x720/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2021/06/14/60c6ecaf34aa2.jpg",
+   "id": "T166",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Brigadier General TNI Rico Ricardo Sirait, Head of the Defense Information Bureau, clarifies that a cruise ship with the Kemhan logo that went viral on social media is privately owned and used for state interests. (DOK. KEMHAN)",
+   "source": "https://go.kompas.com/read/2026/10/22/130137074/ri-qatar-turkey-and-pakistan-sign-mou-for-badr-project-on-defense-industry",
+   "image": "https://asset.kompas.com/crops/d5cNaXRSmDb4J3NgTrBUrhrHCIE=/0x0:1509x1006/1200x675/data/photo/2026/08/15/6a80290a5ce40.png",
+   "id": "T167",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "- The body of Aris Sanda, a travel driver from Lembang Tampan Bonga, Bangkelekila District, North Toraja Regency, South Sulawesi, remains laid out at the family home after arriving in his hometown on Saturday (19/9/2026). Hundreds of residents and relatives accompanied Aris Sanda's body to the Tongkonan. His family chose to keep the body temporarily while preparing for the burial ceremony in accordance with Toraja customs. (MUH. AMRAN AMIR S. HUT)",
+   "source": "https://go.kompas.com/read/2026/09/22/122930574/travel-driver-killed-by-armed-criminal-group-parliament-member-urges-government",
+   "image": "https://asset.kompas.com/crops/yDMewPoH0GWsL1oOMs7MnTjtTxg=/0x0:0x0/1200x675/data/photo/2026/09/19/6aae2ec06d8c4.jpg",
+   "id": "T168",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Potrait peluncuran Marriott Bonvoy Mandiri Kartu Kredit di The St. Regist Jakarta, Rabu (11/2/2026). (Dokumentasi Marriott Internasional)",
+   "source": "https://travel.kompas.com/read/2026/02/16/123850627/wisata-pengalaman-jadi-tren-begini-cara-liburan-biar-untung",
+   "image": "https://asset.kompas.com/crops/qKCdWY4YiqkzFoePzqROVIuaqgw=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c81889b5f6.png,0,-0,1)/data/photo/2026/02/16/6992990605372.jpg",
+   "id": "T169",
+   "raters": [
+    3,
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Api menyala di saluran got kawasan Perumahan Periuk Jaya, Jalan Cempaka 9, Kecamatan Periuk, Kota Tangerang, Jumat (13/11/2026) malam. (Tangkapan layar akun Instagram @kabar_tangerang)",
+   "source": "https://megapolitan.kompas.com/read/2026/11/14/09533001/kebakaran-di-perumahan-tangerang-diduga-akibat-gas-bocor-selang-dimakan",
+   "image": "https://asset.kompas.com/crops/0heg9cRbQnTbGq9ZPxc5ZAIiZBA=/0x16:828x568/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/11/14/6af7c7fd942f5.jpeg",
+   "id": "T170",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Marc Oliver Kempf merayakan gol dengan rekan satu timnya dalam pertandingan sepak bola Serie A Liga Italia antara Como vs Juventus di Stadion Giuseppe Sinigaglia di Como, Italia pada 19 Oktober 2025 (Foto oleh Piero CRUCIATTI / AFP) (AFP/PIERO CRUCIATTI)",
+   "source": "https://bola.kompas.com/read/2026/08/12/11105128/como-diperhitungkan-jadi-juara-liga-italia-kolega-mirwan-suwarso-enggan-jemawa",
+   "image": "https://asset.kompas.com/crops/0lGYs5gLEQ0bBB0T8mOYFtSlRpA=/699x0:1688x659/1200x675/filters:watermark(data/photo/2026/01/30/697c8163c3944.png,0,-0,1)/data/photo/2026/02/01/697f6d6f329f2.jpg",
+   "id": "T171",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Angkutan kontainer yang dilayani oleh KAI Logistik. (DOK. KAI LOGISTIK)",
+   "source": "https://money.kompas.com/read/2025/06/20/154854326/kai-logistik-bidik-pendapatan-rp-18-triliun-ini-penopangnya",
+   "image": "https://asset.kompas.com/crops/YmhRJkbaKdNJyJAQbnQ-pal7lww=/0x0:2560x1707/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2025/06/12/684ae66e6dadd.jpg",
+   "id": "T172",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Herd of elephants traversing the area affected by karhutla in TNWK, Thursday (29/10/2026). (Dokumentasi warganet.)",
+   "source": "https://go.kompas.com/read/2026/11/02/124634174/awaiting-law-enforcement-on-indonesia-singapore-karhutla-dont-stop-at-the",
+   "image": "https://asset.kompas.com/crops/U5cG-sBEG8_D2SaXSo0comih_vo=/0x0:0x0/1200x675/data/photo/2026/10/30/6ae47e004f03b.jpg",
+   "id": "T173",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Geprek Bensu Sambal Matah, salah satu makanan yang dijual di Geprek Bensu. (Dok. Facebook Geprek Bensu)",
+   "source": "https://money.kompas.com/read/2022/04/11/152612826/rebutan-merek-geprek-bensu-berlanjut-ruben-onsu-digugat-rp-100-miliar",
+   "image": "https://asset.kompas.com/crops/ehsS9ygIAHz1yGbiszuNKJ-W3DU=/0x57:1080x777/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2020/06/12/5ee2e0406c7f4.jpg",
+   "id": "T174",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Fitria Gustina, pemilik Oase Gallery di Kota Bengkulu, memenuhi kebutuhan ekspor batik khas Bengkulu, batik besurek ke Malaysia dan Singapura (Pertamina)",
+   "source": "https://regional.kompas.com/read/2026/06/14/175330778/kisah-fitria-pelaku-umkm-bengkulu-bawa-batik-besurek-ke-pasar-malaysia-dan",
+   "image": "https://asset.kompas.com/crops/cKmCWee-AY4GWjhnhbrkTnt5FJg=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2026/06/14/6a2e7c0529ffa.jpg",
+   "id": "T175",
+   "raters": [
+    1,
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "The Eurocopter EC225LP Super Puma helicopter that crashed in the Barito River is only partly visible, with the tail section shown. The helicopter went down in Tabatan Village, Kuripan District, Barito Kuala Regency, South Kalimantan, while on a forest and land fire suppression mission (Karhutla) on Sunday (8/11/2026). (Dok BNPB)",
+   "source": "https://go.kompas.com/read/2026/11/09/184436174/bnpb-obtains-flight-recording-of-helicopter-crash-in-barito-river-south",
+   "image": "https://asset.kompas.com/crops/b3HNJsVZHmbetMCn7DvOKbIdKkc=/0x21:1300x887/1200x675/data/photo/2026/11/08/6af00fed19554.jpeg",
+   "id": "T176",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Pj Gubernur Jabar, Bey Machmudin dalam rapat pembahasan Inpres Nomor 1 Tahun 2025 di Gedung Sate, Kota Bandung, Kamis (30/1/2025). (Dokumentasi Biro Adpim Jabar)",
+   "source": "https://bandung.kompas.com/read/2025/01/31/113508378/wanti-wanti-bey-ke-warga-jabar-jangan-terbujuk-rayu-calo-kerja-luar-negeri",
+   "image": "https://asset.kompas.com/crops/Jwz4cHWOCUFrX0mgdfrSCwKhFQo=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2025/01/30/679bae1e3b431.jpg",
+   "id": "T177",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Truk Listrik yang digunakan DLH DKI Jakarta (Dok. Beritajakarta)",
+   "source": "https://otomotif.kompas.com/read/2025/04/23/064200615/truk-sampah-listrik-dki-jakarta-resmi-beroperasi",
+   "image": "https://asset.kompas.com/crops/mplBYJ_U1NF1koQgQopLAwrcgzk=/0x46:800x579/1200x675/filters:watermark(data/photo/2026/01/30/697c81750a668.png,0,-0,1)/data/photo/2025/04/15/67fd5edd21d99.jpg",
+   "id": "T178",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Perbukitan Danau Toba, Kabupaten Samosir, Sumatera Utara, yang terbakar, Minggu (7/8/2022). (DOKUMENTASI WILMAR SIMANJDORANG)",
+   "source": "https://medan.kompas.com/read/2022/08/07/210542778/perbukitan-danau-toba-terbakar-api-masuki-daerah-destinasi-wisata",
+   "image": "https://asset.kompas.com/crops/sdngG-wCY9Y1aoglhm7mD2ZTWhg=/0x0:1280x853/1200x675/filters:watermark(data/photo/2026/01/30/697c815a5f0b9.png,0,-0,1)/data/photo/2022/08/07/62efc5fe2fc8d.jpeg",
+   "id": "T179",
+   "raters": [
+    4
+   ]
+  },
+  {
+   "stratum": "C",
+   "blok": 4,
+   "caption": "Peluncuran roket Falcon Havy milik SpaceX yang membawa Nancy Grace Roman Space Telescope milik NASA dari Kennedy Space Center, Florida, Amerika Serikat pada 30 Agustus 2026. (AP Photo/John Raoux)",
+   "source": "https://money.kompas.com/read/2026/10/22/070151826/wall-street-hijau-saham-spacex-meroket-7-persen",
+   "image": "https://asset.kompas.com/crops/I7lHty-GcMBuxSeyGbhUmvIUvxU=/0x0:1280x853/1200x675/filters:watermark(data/photo/2026/01/30/697c815e7ef28.png,0,-0,1)/data/photo/2026/08/31/6a94f1973f366.webp",
+   "id": "T180",
+   "raters": [
+    4
+   ]
+  }
+ ]
+}
