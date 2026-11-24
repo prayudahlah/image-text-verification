@@ -133,6 +133,11 @@ print("fusion only:", FUSION_ONLY or "-")
 
 # %%
 rows = load_pairs()
+assert len(rows) == 13674, (
+    f"dataset salah: {len(rows)} baris. Clone repo berisi versi lama. "
+    "Ganti data/07_pairs.jsonl dengan versi 13.674 baris, "
+    "sha256 f9a2f709c0e405e5c2cc9ec4af1c263e86ea8ed55ac4a8e2ee14705dc6416a62."
+)
 df = pd.DataFrame(rows)
 df["n_kata"] = df["caption"].str.split().str.len()
 
@@ -202,6 +207,14 @@ TOKENIZERS = {
     "mbert": AutoTokenizer.from_pretrained("bert-base-multilingual-cased"),
 }
 print({k: type(v).__name__ for k, v in TOKENIZERS.items()})
+
+from experiments.lib.data import cache_path
+
+missing = sum(1 for r in rows if not cache_path(r["image"]).exists())
+assert missing == 0, (
+    f"{missing} gambar belum ada di cache. Kirim data/images/ lebih dulu, "
+    "lalu jalankan: .venv-train/bin/python -m experiments.build_cache"
+)
 
 sample = df.iloc[0]
 ids = TOKENIZERS["indobert"](clean_caption(sample["caption"]), truncation=True, max_length=MAX_LEN)
