@@ -195,11 +195,18 @@ display(df.groupby(["label", "stratum"]).size().unstack(fill_value=0))
 #
 # **Tujuan** menyamakan bentuk input untuk semua encoder.
 #
-# **Input** caption mentah dan berkas gambar.
+# **Input** caption mentah dan berkas gambar. Gambar diambil dari arsip Drive lewat
+# `ensure_images()` kalau belum ada, dan fungsi itu idempoten: berkas yang sudah lengkap
+# tidak diunduh ulang.
 #
 # **Output** tokenizer IndoBERT dan mBERT, serta gambar 224 piksel dengan letterbox.
 #
 # **Keputusan** letterbox, bukan center crop, karena rasio asli 16:9. Tanpa augmentasi.
+
+# %%
+from experiments.lib.images import ensure_images
+
+print(ensure_images())
 
 # %%
 TOKENIZERS = {

@@ -57,3 +57,5 @@ experiments/pemenang_fusion_smoke.json
 experiments/v1/runs*/
 experiments/v1/ledger_smoke.csv
 experiments/v1/pemenang_smoke.json
+
+data/arsip/
