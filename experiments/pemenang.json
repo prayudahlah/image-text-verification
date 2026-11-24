@@ -1,0 +1,16 @@
+{
+  "kode": "M1",
+  "teks": "indobert",
+  "gambar": "clip",
+  "fusion": "xattn_uni",
+  "lr": 2e-05,
+  "dropout": 0.1,
+  "batch": 16,
+  "seed": 727,
+  "epoch_best": 8,
+  "f1_macro": 0.6346,
+  "pairwise": 0.7638888888888888,
+  "selisih_dua_teratas": 0.021,
+  "ledger": "ledger.csv",
+  "val_n": 2594
+}
