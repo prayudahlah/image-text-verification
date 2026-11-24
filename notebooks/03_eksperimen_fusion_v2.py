@@ -823,54 +823,20 @@ else:
 #
 # **Keputusan** fusion dikunci ke pemenang bab 7. Hyperparameter dan seed sama untuk
 # keempat. Yang berubah hanya pasangan encoder.
+#
+# **Kontrak** helper dari bab 5 sampai 7 sudah tersedia, yaitu `Run`, `run_one`,
+# `build_model`, `make_loader`, `pairwise_acc`, `train_rows`, `val_rows`, `pool`,
+# `test`, dan `BASE`. Artefak yang harus dihasilkan di bab ini sampai bab 12:
+# `experiments/pemenang.json`, baris baru di ledger, `runs/oof.npz`, dan
+# `runs/Z*-test.npz`. Protokol tidak boleh diubah. Contoh pemanggilan:
+# `run_one(Run("M1", "encoder", "indobert", "clip", FUS, **BASE), train_rows, val_rows)`.
 
 # %%
-P_FUS = json.loads(PEMENANG_FUSION.read_text()) if PEMENANG_FUSION.exists() else {"fusion": "concat"}
-FUS = P_FUS["fusion"]
-print("fusion untuk grid:", FUS)
-
-RUNS_GRID = [
-    Run("M1", "encoder", "indobert", "clip", FUS, **BASE),
-    Run("M2", "encoder", "indobert", "dinov2", FUS, **BASE),
-    Run("M3", "encoder", "mbert", "clip", FUS, **BASE),
-    Run("M4", "encoder", "mbert", "dinov2", FUS, **BASE),
-]
-if SMOKE:
-    RUNS_GRID = [replace(r, max_epochs=1, patience=1) for r in RUNS_GRID]
-
-if RUN_GRID:
-    for run in RUNS_GRID:
-        run_one(run, train_rows, val_rows)
-else:
-    print("RUN_GRID mati")
-
-# %%
-led = pd.DataFrame(read_ledger(LEDGER))
-grid = led[led.kode.isin(["M1", "M2", "M3", "M4"])].drop_duplicates("kode").copy()
-if len(grid):
-    grid["pairwise"] = [pairwise_acc(r, PAIRS) for r in grid["run_id"]]
-    display(grid[["kode", "teks", "gambar", "fusion", "acc", "bal_acc", "f1_macro", "f1_mc", "pairwise", "epoch_best"]])
-    ranked = grid.sort_values("f1_macro", ascending=False).reset_index(drop=True)
-    gap = float(ranked.loc[0, "f1_macro"] - ranked.loc[1, "f1_macro"]) if len(ranked) > 1 else 0.0
-    best = ranked.loc[0]
-    pemenang = {
-        "kode": str(best["kode"]),
-        "teks": str(best["teks"]),
-        "gambar": str(best["gambar"]),
-        "fusion": str(best["fusion"]),
-        "lr": float(best["lr"]),
-        "dropout": float(best["dropout"]),
-        "batch": int(best["batch"]),
-        "seed": int(best["seed"]),
-        "epoch_best": int(best["epoch_best"]),
-        "f1_macro": float(best["f1_macro"]),
-        "pairwise": float(best["pairwise"]) if pd.notna(best["pairwise"]) else None,
-        "selisih_dua_teratas": round(gap, 4),
-    }
-    PEMENANG.write_text(json.dumps(pemenang, indent=2))
-    print(json.dumps(pemenang, indent=2))
-else:
-    print("belum ada hasil grid")
+# TODO (Darell)
+# 1. Baca experiments/pemenang_fusion.json, ambil field "fusion".
+# 2. Bangun empat Run: M1..M4, pasangan (indobert|mbert) x (clip|dinov2).
+# 3. Panggil run_one(run, train_rows, val_rows) untuk tiap run.
+# 4. Tulis tabel perbandingan dan experiments/pemenang.json.
 
 # %% [markdown]
 # ## 9. Faktor hyperparameter
@@ -884,32 +850,10 @@ else:
 # **Keputusan** grid dua parameter, bukan OFAT.
 
 # %%
-tun = pd.DataFrame(read_ledger(LEDGER))
-tun["f1_macro"] = pd.to_numeric(tun["f1_macro"], errors="coerce")
-P = json.loads(PEMENANG.read_text()) if PEMENANG.exists() else {
-    "teks": REF["teks"], "gambar": REF["gambar"], "fusion": FUS,
-    "lr": BASE["lr"], "dropout": BASE["dropout"], "batch": BASE["batch"],
-    "epoch_best": 4,
-}
-
-RUNS_TUNING = []
-i = 1
-for lr in [1e-5, 2e-5, 5e-5]:
-    for do in [0.1, 0.3]:
-        RUNS_TUNING.append(
-            Run(f"T{i}", "tuning", P["teks"], P["gambar"], P["fusion"],
-                lr=lr, dropout=do, batch=P["batch"], seed=SEED)
-        )
-        i += 1
-if SMOKE:
-    RUNS_TUNING = [replace(r, max_epochs=1, patience=1) for r in RUNS_TUNING[:2]]
-
-if RUN_TUNING:
-    for run in RUNS_TUNING:
-        run_one(run, train_rows, val_rows)
-else:
-    print("RUN_TUNING mati")
-
+# TODO (Darell)
+# 1. Ambil pemenang encoder dan fusion dari experiments/pemenang.json.
+# 2. Grid learning rate {1e-5, 2e-5, 5e-5} x dropout {0.1, 0.3}, enam run.
+# 3. Panggil run_one untuk tiap run, tulis tabel tuning.
 # %% [markdown]
 # ## 10. Final 5-fold OOF
 #
@@ -923,44 +867,10 @@ else:
 # model final.
 
 # %%
-tun = pd.DataFrame(read_ledger(LEDGER))
-tun["f1_macro"] = pd.to_numeric(tun["f1_macro"], errors="coerce")
-kandidat_t = tun[tun.kode.str.startswith("T")]
-if len(kandidat_t):
-    final_cfg = kandidat_t.sort_values("f1_macro", ascending=False).iloc[0]
-    FINAL_LR, FINAL_DO, FINAL_FUSION = float(final_cfg["lr"]), float(final_cfg["dropout"]), str(final_cfg["fusion"])
-    print("konfigurasi final:", final_cfg["kode"], FINAL_LR, FINAL_DO, FINAL_FUSION)
-else:
-    FINAL_LR, FINAL_DO, FINAL_FUSION = float(P["lr"]), float(P["dropout"]), str(P["fusion"])
-    print("belum ada tuning, pakai konfigurasi pemenang:", FINAL_LR, FINAL_DO, FINAL_FUSION)
-
-OOF_IDS = [
-    Run(f"O{k + 1}", "oof", P["teks"], P["gambar"], FINAL_FUSION,
-        lr=FINAL_LR, dropout=FINAL_DO, batch=int(P["batch"]), seed=SEED)
-    for k in range(5)
-]
-if SMOKE:
-    OOF_IDS = [replace(r, max_epochs=1, patience=1) for r in OOF_IDS]
-
-if RUN_OOF:
-    for run, k in zip(OOF_IDS, range(5)):
-        tr_df = pool[pool.fold != k].reset_index(drop=True)
-        va_df = pool[pool.fold == k].reset_index(drop=True)
-        if SMOKE:
-            tr_df = tr_df.groupby("label").head(100)
-            va_df = va_df.groupby("label").head(50)
-        run_one(run, tr_df.to_dict("records"), va_df.to_dict("records"))
-    parts = [np.load(RUNS_DIR / f"{r.run_id}-val.npz") for r in OOF_IDS]
-    np.savez(
-        RUNS_DIR / "oof.npz",
-        ids=np.concatenate([p["ids"] for p in parts]),
-        y=np.concatenate([p["y"] for p in parts]),
-        prob=np.concatenate([p["prob"] for p in parts]),
-    )
-    print("oof.npz tersimpan")
-else:
-    print("RUN_OOF mati")
-
+# TODO (Darell)
+# 1. Pakai konfigurasi terbaik dari bab 9.
+# 2. Latih lima fold dengan run_one, satu seed, early stopping.
+# 3. Simpan runs/oof.npz dan tabel per fold.
 # %% [markdown]
 # ## 11. Model final dan uji 700
 #
@@ -973,81 +883,10 @@ else:
 # **Keputusan** seed 727, 728, 729, tanpa validasi, epoch tetap.
 
 # %%
-led = pd.DataFrame(read_ledger(LEDGER))
-led["epoch_best"] = pd.to_numeric(led["epoch_best"], errors="coerce")
-oof_rows = led[led.kode.str.startswith("O")]
-EPOCHS_FINAL = int(median(oof_rows["epoch_best"].tolist())) if len(oof_rows) else int(P.get("epoch_best", 4))
-print("epoch final:", EPOCHS_FINAL)
-
-FINAL_SEEDS = [SEED, SEED + 1, SEED + 2]
-FINAL = [
-    Run(f"Z{i + 1}", "final", P["teks"], P["gambar"], FINAL_FUSION,
-        lr=FINAL_LR, dropout=FINAL_DO, batch=int(P["batch"]), seed=s)
-    for i, s in enumerate(FINAL_SEEDS)
-]
-
-if RUN_FINAL:
-    pool_final = pool.groupby("label").head(100).to_dict("records") if SMOKE else pool.to_dict("records")
-    test_eval = test.groupby("label").head(35) if SMOKE else test
-    test_final = test_eval.to_dict("records")
-    epochs_final = 1 if SMOKE else EPOCHS_FINAL
-    for run in FINAL:
-        if not FORCE and run.run_id in done_ids(LEDGER):
-            print("lewati, sudah ada:", run.run_id)
-            continue
-        set_seed(run.seed)
-        tr_loader = make_loader(pool_final, run, shuffle=True)
-        te_loader = make_loader(test_final, run, shuffle=False)
-        model = build_model(run).to(DEVICE)
-        crit = nn.CrossEntropyLoss(weight=class_weights(pool_final))
-        opt = torch.optim.AdamW(model.parameters(), lr=run.lr, weight_decay=0.01)
-        scaler = torch.amp.GradScaler("cuda", enabled=DEVICE.type == "cuda")
-        steps = len(tr_loader) * epochs_final
-        sched = get_cosine_schedule_with_warmup(
-            opt, num_warmup_steps=int(WARMUP * steps), num_training_steps=steps
-        )
-        torch.cuda.reset_peak_memory_stats()
-        t0 = time.perf_counter()
-        for epoch in range(1, epochs_final + 1):
-            model.train()
-            for batch in tr_loader:
-                batch = move(batch)
-                opt.zero_grad(set_to_none=True)
-                with torch.autocast(device_type=DEVICE.type, dtype=torch.float16, enabled=DEVICE.type == "cuda"):
-                    loss = crit(model(batch), batch["label"])
-                scaler.scale(loss).backward()
-                scaler.unscale_(opt)
-                nn.utils.clip_grad_norm_(model.parameters(), 1.0)
-                scaler.step(opt)
-                scaler.update()
-                sched.step()
-        y, p, ids = predict(model, te_loader)
-        np.savez(RUNS_DIR / f"{run.run_id}-test.npz", ids=ids, y=y, prob=p)
-        sc = score(y, p.argmax(1))
-        append_ledger(
-            run.row()
-            | {
-                "epochs_run": epochs_final,
-                "epoch_best": epochs_final,
-                "acc": round(sc["acc"], 4),
-                "bal_acc": round(sc["bal_acc"], 4),
-                "f1_macro": round(sc["f1_macro"], 4),
-                "f1_true": round(sc["f1_true"], 4),
-                "f1_ooc": round(sc["f1_ooc"], 4),
-                "f1_mc": round(sc["f1_mc"], 4),
-                "val_n": len(test_final),
-                "wall_clock_s": round(time.perf_counter() - t0, 1),
-                "params": count_params(model),
-                "vram_peak_mb": round(torch.cuda.max_memory_allocated() / 1e6, 0),
-                "catatan": "test-700",
-            },
-            LEDGER,
-        )
-        del model, opt, crit, scaler, tr_loader, te_loader, sched
-        torch.cuda.empty_cache()
-else:
-    print("RUN_FINAL mati")
-
+# TODO (Darell)
+# 1. Hitung epoch final dari median epoch_best OOF.
+# 2. Latih di seluruh pool dengan seed 727, 728, 729, tanpa validasi.
+# 3. Prediksi test 700, simpan runs/Z*-test.npz, laporkan rata-rata dan simpangan.
 # %% [markdown]
 # ## 12. Analisis error dan ringkasan
 #
@@ -1061,27 +900,7 @@ else:
 # tidak bisa diperiksa dari gambar.
 
 # %%
-led = pd.DataFrame(read_ledger(LEDGER))
-for col in ["acc", "bal_acc", "f1_macro", "f1_true", "f1_ooc", "f1_mc"]:
-    led[col] = pd.to_numeric(led[col], errors="coerce")
-
-ringkas = led.drop_duplicates("kode")[[
-    "kode", "faktor", "teks", "gambar", "fusion", "f1_macro", "acc", "bal_acc", "params"
-]]
-display(ringkas.sort_values(["faktor", "kode"]))
-
-test_files = sorted(RUNS_DIR.glob("Z*-test.npz"))
-if test_files:
-    test_eval = test.groupby("label").head(35) if SMOKE else test
-    probs = np.mean([np.load(f)["prob"] for f in test_files], axis=0)
-    y = np.load(test_files[0])["y"]
-    pred = probs.argmax(1)
-    sc = score(y, pred)
-    print({k: round(v, 4) for k, v in sc.items() if k != "confusion"})
-    print(pd.DataFrame(sc["confusion"], index=LABEL_NAMES, columns=LABEL_NAMES))
-
-    err = test_eval.assign(pred=[LABEL_NAMES[i] for i in pred], conf=probs.max(1))
-    err = err[err.label != err.pred].sort_values("conf", ascending=False)
-    display(err[["label", "pred", "conf", "caption"]].head(12))
-else:
-    print("belum ada prediksi test, jalankan RUN_FINAL=1")
+# TODO (Darell)
+# 1. Gabungkan prediksi tiga seed, hitung confusion matrix.
+# 2. Tampilkan contoh kesalahan berkeyakinan tinggi.
+# 3. Tulis ringkasan dan batasan kelas MC.

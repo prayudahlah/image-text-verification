@@ -1,11 +1,22 @@
 # Handoff eksperimen fusion v2
 
-Dokumen ini untuk Darell. Isinya cara menjalankan, apa yang sudah dibekukan, dan apa yang
-tidak boleh diubah.
+Untuk Darell. Notebook ini diserahkan setengah jadi. Bab 1 sampai 7 sudah selesai dan
+sudah dijalankan. Bab 8 sampai 12 sengaja kosong, hanya berisi markdown dan TODO, dan
+kodenya kamu tulis sendiri.
 
-Versi 1 dari notebook tetap ada di `notebooks/02_eksperimen_fusion_v1.ipynb` dan
-`experiments/v1/`. Fungsinya sebagai pilot: bukti kenapa protokol latih diganti dan kenapa
-M4 dipilih sebagai kombinasi acuan. Jangan dipakai untuk angka laporan.
+## Pembagian
+
+| Bab | Isi | Status |
+|---|---|---|
+| 1 sampai 4 | persiapan, data, preprocessing, split | selesai |
+| 5 | B0, A1, A2 | selesai |
+| 6 | enam varian fusion | selesai |
+| 7 | analisis dan `pemenang_fusion.json` | selesai |
+| 8 | grid encoder dengan fusion pemenang | TODO |
+| 9 | tuning hyperparameter | TODO |
+| 10 | 5-fold OOF | TODO |
+| 11 | tiga seed dan uji 700 | TODO |
+| 12 | analisis error | TODO |
 
 ## Lingkungan
 
@@ -18,115 +29,82 @@ uv pip install --python .venv-train/bin/python -r requirements-train.txt
 Kernel Jupyter bernama `image-text-fusion`. Hanya kernel itu yang punya torch, timm, dan
 transformers.
 
-## Menjalankan
+## Cara melanjutkan
 
-Sumber notebook ada di `notebooks/03_eksperimen_fusion_v2.py`, format jupytext. Berkas
-`.ipynb` dibangun dan dieksekusi oleh runner.
-
-```
-.venv-train/bin/python experiments/run_notebook.py
-```
-
-Mode smoke memakai 300 baris latih berstrata, satu epoch, dan ledger terpisah.
-
-```
-SMOKE=1 .venv-train/bin/python experiments/run_notebook.py
-```
-
-## Menyiapkan gambar
-
-Arsip gambar ada di Drive kelompok, lima bagian `gambar-13674.part1.tar` sampai
-`part5.tar`, total 918 MB. Folder itu dibagikan ke "Anyone with the link", jadi notebook
-mengunduh sendiri lewat `gdown` kalau gambarnya belum ada.
-
-1. Jalankan notebook. `ensure_images()` mengunduh bagian yang kurang, memverifikasi
-   sha256, lalu mengekstrak berkasnya.
-2. Setelah gambar lengkap, jalankan build cache sekali.
-
-Kalau tautan Drive dicabut atau kuota unduhan habis, unduh kelima bagian lewat browser ke
-`data/arsip/`. Notebook tetap memverifikasi sha256 dan mengekstrak dari berkas lokal.
-
-## Variabel lingkungan
-
-| Variabel | Default | Isi |
-|---|---|---|
-| `RUN_BASELINE` | 1 | B0, A1, A2 |
-| `RUN_FUSION` | 1 | F0 sampai F5 |
-| `RUN_GRID` | 0 | M1 sampai M4 dengan fusion pemenang |
-| `RUN_TUNING` | 0 | T1 sampai T6 |
-| `RUN_OOF` | 0 | O1 sampai O5 |
-| `RUN_FINAL` | 0 | Z1 sampai Z3 |
-| `FUSION_ONLY` | kosong | jalankan satu varian fusion saja, misalnya `FUSION_ONLY=F1` |
-| `SMOKE` | 0 | subset kecil, satu epoch |
-| `FORCE` | 0 | ulang run walau sudah ada di ledger |
-
-Contoh menjalankan tahap grid saja, setelah `pemenang_fusion.json` ada.
+1. Buka `notebooks/03_eksperimen_fusion_v2.ipynb` di Jupyter, bukan berkas `.py`.
+2. Jalankan sel dari atas sampai bab 7. Semua run dilewati karena ledger sudah berisi,
+   jadi hanya butuh satu sampai dua menit. Gambar akan diunduh otomatis dari Drive pada
+   bab 3 kalau belum ada.
+3. Tulis dan jalankan sel bab 8 sampai 12. Markdown tiap bab berisi tujuan, input, output,
+   keputusan, dan kontraknya.
+4. Jangan jalankan `experiments/run_notebook.py` selama mengerjakan. Runner membangun ulang
+   `.ipynb` dari `.py`, dan `.py` belum berisi kodemu, jadi pekerjaanmu akan hilang.
+5. Setelah selesai, sinkronkan kembali ke `.py`:
 
 ```
-RUN_BASELINE=0 RUN_FUSION=0 RUN_GRID=1 .venv-train/bin/python experiments/run_notebook.py
+jupytext --to py:percent notebooks/03_eksperimen_fusion_v2.ipynb -o notebooks/03_eksperimen_fusion_v2.py
 ```
 
-Run yang sudah ada di ledger dilewati. Aman menjalankan ulang notebook tanpa mengulang
-latihan.
+## Data dan gambar
+
+`data/07_pairs.jsonl` sudah ikut di repo, 13.674 baris. Notebook memeriksa jumlah itu
+sebelum latih.
+
+Gambar tidak ikut repo. Notebook mengunduh lima bagian arsip dari Drive, memverifikasi
+sha256 tiap bagian, lalu mengekstraknya ke `data/images/`. Setelah gambar lengkap,
+jalankan build cache sekali.
+
+```
+.venv-train/bin/python -m experiments.build_cache
+```
+
+## Helper yang tersedia
+
+Semua sudah didefinisikan di bab 5 sampai 7.
+
+| Nama | Fungsi |
+|---|---|
+| `Run(...)` | konfigurasi satu run, punya `run_id` |
+| `run_one(run, train_rows, val_rows)` | latih, evaluasi, simpan checkpoint dan probabilitas, tulis ledger |
+| `build_model(run)` | membangun model sesuai konfigurasi |
+| `make_loader(rows, run, shuffle)` | dataloader |
+| `pairwise_acc(run_id, pairs)` | pairwise true lawan MC dari berkas `-val.npz` |
+| `train_rows`, `val_rows` | fold 1-4 dan fold 0 |
+| `pool`, `test` | seluruh pool dan 700 test |
+| `BASE` | hyperparameter dasar |
+
+`run_one` melewati run yang `run_id`-nya sudah ada di ledger, dan mengembalikan baris
+ledger yang sudah ada. Aman dipanggil berulang.
 
 ## Protokol yang dibekukan
 
-- Warmup 10 persen, cosine decay, maksimal 8 epoch, patience 3.
+- Warmup 10 persen, cosine, maksimal 8 epoch, patience 3.
 - Letterbox 224, `max_len` 128, tanpa augmentasi.
 - Batch 16, AdamW, weight decay 0,01, clip grad 1,0, class weight.
 - Matriks embedding kata dibekukan, lapisan transformer dilatih penuh.
-- Bandingkan model memakai macro-F1 dan pairwise true lawan MC.
 - Seed 727 untuk eksplorasi dan OOF, 727 sampai 729 untuk model final.
 
-## Yang sudah diputuskan
+Jangan ubah protokol ini. Kalau ada yang perlu diubah, tulis alasannya di kolom `catatan`
+ledger dan di commit message.
 
-| Bab | Keputusan | Berkas |
-|---|---|---|
-| 6 | enam varian fusion diuji pada kombinasi acuan M4 mBERT + DINOv2 | `experiments/ledger.csv` |
-| 7 | fusion pemenang: **F3 cross-attention satu arah** | `experiments/pemenang_fusion.json` |
-| 8 | kombinasi encoder pemenang | `experiments/pemenang.json` |
-
-F2 gated dan F3 satu arah seri, selisih macro-F1 0,0058. Aturan tie-break dinyatakan
-sebelum grid: kalau selisih di bawah 0,02, dipilih strategi yang menjadi fokus penelitian
-selama skornya masih di dalam 0,02. Karena itu F3 yang dipakai, dan gated tetap dilaporkan
-sebagai pembanding setara di Bab IV.
-
-Bab 8 belum dijalankan saat serah terima. Darell mulai dari sana, memakai `xattn_uni`.
-
-## Berkas yang dihasilkan
+## Artefak yang harus dihasilkan
 
 ```
 experiments/
-  ledger.csv                  satu baris per run v2
-  pemenang_fusion.json        hasil bab 7
+  ledger.csv                  baris baru untuk setiap run
   pemenang.json               hasil bab 8
-  figures/                    grafik tiap bab
-  runs/<run_id>.pt            checkpoint terbaik
+  figures/                    grafik bab 8 sampai 12
+  runs/<run_id>.pt            checkpoint
   runs/<run_id>-val.npz       ids, y, prob validasi
-  runs/<run_id>-test.npz      hanya model final
+  runs/<run_id>-test.npz      prediksi test, hanya model final
   runs/oof.npz                gabungan lima fold
-  v1/                         arsip pilot, jangan dipakai untuk angka
-  environment.txt             pip freeze
 ```
-
-## Bagian Darell
-
-| Bab | Isi | Run |
-|---|---|---|
-| 8 | grid M1 sampai M4 dengan fusion pemenang | 4 |
-| 9 | grid learning rate dan dropout | 6 |
-| 10 | 5-fold OOF, satu seed | 5 |
-| 11 | tiga seed di seluruh pool, uji 700 | 3 |
-| 12 | confusion matrix, contoh salah, ringkasan | 0 |
-
-Urutannya berhenti di bab 9 kalau tuning tidak lebih baik dari konfigurasi dasar. Dalam
-kasus itu pakai konfigurasi dari `pemenang.json` dan tulis alasannya di Bab IV.
 
 ## Metrik
 
 - `f1_macro` metrik utama, karena kelas MC hanya 16,8 persen.
 - `bal_acc` pembanding terhadap B0.
-- Pairwise true lawan MC adalah metrik verifikasi. Text-only mencapai 0,778 pada pilot v1,
-  jadi model fusion harus melampaui angka itu untuk klaim bahwa gambar dipakai.
+- Pairwise true lawan MC metrik verifikasi. Pada pilot, teks saja mencapai 0,810, jadi
+  model fusion harus melampaui itu untuk klaim bahwa gambar dipakai.
 - `f1_mc` jangan dibaca sendirian. Audit manusia menunjukkan sebagian item MC tidak bisa
   diperiksa dari gambar.
