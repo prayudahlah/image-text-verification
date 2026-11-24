@@ -46,3 +46,14 @@ Thumbs.db
 .vscode/
 .idea/
 data/pairs_draft.jsonl
+
+# Eksperimen fusion
+.venv-train/
+data/cache/
+experiments/runs*/
+experiments/ledger_smoke.csv
+experiments/pemenang_smoke.json
+experiments/pemenang_fusion_smoke.json
+experiments/v1/runs*/
+experiments/v1/ledger_smoke.csv
+experiments/v1/pemenang_smoke.json

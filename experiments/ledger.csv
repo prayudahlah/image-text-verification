@@ -1,0 +1,12 @@
+run_id,kode,faktor,teks,gambar,fusion,lr,dropout,batch,seed,max_epochs,patience,epochs_run,epoch_best,acc,bal_acc,f1_macro,f1_true,f1_ooc,f1_mc,val_n,wall_clock_s,params,vram_peak_mb,catatan,dibuat
+B0_na_na_none_s727,B0,modalitas,,,none,2e-05,0.1,16,727,8,3,,,0.4167,0.3333,0.1961,0.5883,0.0,0.0,2594,,,,mayoritas=true,2026-11-23T20:12:25+00:00
+F1_mbert_dinov2_concat_s727,F1,fusion,mbert,dinov2,concat,2e-05,0.1,16,727,8,3,8,8,0.5289,0.5616,0.5466,0.5229,0.4895,0.6275,2594,1931.4,172293123,5179.0,fold0-val,2026-11-23T20:44:54+00:00
+A1_indobert_na_none_s727,A1,modalitas,indobert,,none,2e-05,0.1,16,727,8,3,8,8,0.5023,0.5408,0.5347,0.4379,0.4906,0.6757,2594,700.2,86238979,2204.0,fold0-val,2026-11-23T20:57:19+00:00
+A1_mbert_na_none_s727,A1,modalitas,mbert,,none,2e-05,0.1,16,727,8,3,7,4,0.4819,0.5253,0.4872,0.3133,0.5443,0.604,2594,613.7,86238979,2418.0,fold0-val,2026-11-23T21:07:39+00:00
+A2_na_clip_none_s727,A2,modalitas,,clip,none,2e-05,0.1,16,727,8,3,6,3,0.3882,0.3897,0.3672,0.3072,0.4851,0.3092,2594,793.8,85997059,2679.0,fold0-val,2026-11-23T21:21:02+00:00
+A2_na_dinov2_none_s727,A2,modalitas,,dinov2,none,2e-05,0.1,16,727,8,3,8,7,0.3678,0.3697,0.3459,0.282,0.4693,0.2865,2594,1239.2,85922563,2795.0,fold0-val,2026-11-23T21:41:54+00:00
+F0_mbert_dinov2_late_s727,F0,fusion,mbert,dinov2,late,2e-05,0.1,16,727,8,3,8,6,0.4861,0.5357,0.4999,0.5335,0.3496,0.6167,2594,1929.9,172161542,5177.0,fold0-val,2026-11-23T22:14:23+00:00
+F2_mbert_dinov2_gated_s727,F2,fusion,mbert,dinov2,gated,2e-05,0.1,16,727,8,3,8,8,0.5671,0.5865,0.5754,0.5736,0.5373,0.6152,2594,1930.1,172358403,5174.0,fold0-val,2026-11-23T22:46:55+00:00
+F3_mbert_dinov2_xattn_uni_s727,F3,fusion,mbert,dinov2,xattn_uni,2e-05,0.1,16,727,8,3,8,8,0.5563,0.5853,0.5696,0.5603,0.5145,0.6339,2594,1935.7,172556803,5181.0,fold0-val,2026-11-23T23:19:30+00:00
+F4_mbert_dinov2_xattn_bi_s727,F4,fusion,mbert,dinov2,xattn_bi,2e-05,0.1,16,727,8,3,6,3,0.4927,0.5465,0.5019,0.3881,0.5227,0.5949,2594,1458.6,172820483,5186.0,fold0-val,2026-11-23T23:44:13+00:00
+F5_mbert_dinov2_xattn_bi_deep_s727,F5,fusion,mbert,dinov2,xattn_bi_deep,2e-05,0.1,16,727,8,3,8,8,0.5274,0.559,0.5422,0.5293,0.4838,0.6135,2594,1970.2,173347843,5225.0,fold0-val,2026-11-24T00:17:30+00:00

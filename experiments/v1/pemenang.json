@@ -1,0 +1,15 @@
+{
+  "kode": "M4",
+  "teks": "mbert",
+  "gambar": "dinov2",
+  "fusion": "concat",
+  "lr": 2e-05,
+  "dropout": 0.1,
+  "batch": 16,
+  "seed": 727,
+  "epoch_best": 4,
+  "f1_macro": 0.4928,
+  "selisih_dua_teratas": 0.0178,
+  "ledger": "ledger.csv",
+  "val_n": 2594
+}
