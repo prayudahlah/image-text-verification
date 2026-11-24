@@ -36,16 +36,15 @@ SMOKE=1 .venv-train/bin/python experiments/run_notebook.py
 ## Menyiapkan gambar
 
 Arsip gambar ada di Drive kelompok, lima bagian `gambar-13674.part1.tar` sampai
-`part5.tar`, total 918 MB. Folder itu dibagikan ke empat email kelompok, bukan ke publik,
-jadi unduh manual lewat browser.
+`part5.tar`, total 918 MB. Folder itu dibagikan ke "Anyone with the link", jadi notebook
+mengunduh sendiri lewat `gdown` kalau gambarnya belum ada.
 
-1. Unduh kelima bagian ke `data/arsip/`.
-2. Jalankan notebook. `ensure_images()` memverifikasi sha256 tiap bagian, mengekstrak
-   berkas yang belum ada, lalu memeriksa ukuran semua gambar.
+1. Jalankan notebook. `ensure_images()` mengunduh bagian yang kurang, memverifikasi
+   sha256, lalu mengekstrak berkasnya.
+2. Setelah gambar lengkap, jalankan build cache sekali.
 
-Kalau gambar sudah lengkap, fungsi itu selesai tanpa menyentuh arsip. Kalau folder Drive
-dibuat publik, notebook juga bisa mengunduh sendiri lewat `gdown`, tetapi itu berarti
-gambar Kompas didistribusikan ulang, jadi tidak disarankan.
+Kalau tautan Drive dicabut atau kuota unduhan habis, unduh kelima bagian lewat browser ke
+`data/arsip/`. Notebook tetap memverifikasi sha256 dan mengekstrak dari berkas lokal.
 
 ## Variabel lingkungan
 
