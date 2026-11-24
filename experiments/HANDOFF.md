@@ -33,6 +33,20 @@ Mode smoke memakai 300 baris latih berstrata, satu epoch, dan ledger terpisah.
 SMOKE=1 .venv-train/bin/python experiments/run_notebook.py
 ```
 
+## Menyiapkan gambar
+
+Arsip gambar ada di Drive kelompok, lima bagian `gambar-13674.part1.tar` sampai
+`part5.tar`, total 918 MB. Folder itu dibagikan ke empat email kelompok, bukan ke publik,
+jadi unduh manual lewat browser.
+
+1. Unduh kelima bagian ke `data/arsip/`.
+2. Jalankan notebook. `ensure_images()` memverifikasi sha256 tiap bagian, mengekstrak
+   berkas yang belum ada, lalu memeriksa ukuran semua gambar.
+
+Kalau gambar sudah lengkap, fungsi itu selesai tanpa menyentuh arsip. Kalau folder Drive
+dibuat publik, notebook juga bisa mengunduh sendiri lewat `gdown`, tetapi itu berarti
+gambar Kompas didistribusikan ulang, jadi tidak disarankan.
+
 ## Variabel lingkungan
 
 | Variabel | Default | Isi |

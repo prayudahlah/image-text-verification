@@ -99,7 +99,15 @@ def ensure_images(download: bool = True, config_path: Path | None = None) -> dic
                     "uv pip install --python .venv-train/bin/python gdown"
                 ) from exc
             ARSIP.mkdir(parents=True, exist_ok=True)
-            gdown.download(id=drive_id, output=str(tar_path), quiet=False)
+            try:
+                gdown.download(id=drive_id, output=str(tar_path), quiet=False)
+            except Exception as exc:
+                tar_path.unlink(missing_ok=True)
+                raise RuntimeError(
+                    f"gagal mengunduh {part['nama']}. Kalau folder Drive tidak dibagikan "
+                    f"ke 'Anyone with the link', unduh manual kelima bagian ke {ARSIP} "
+                    f"lalu jalankan ulang notebook. Penyebab: {exc}"
+                ) from exc
             got = sha256(tar_path)
             if got != part["sha256"]:
                 tar_path.unlink(missing_ok=True)
