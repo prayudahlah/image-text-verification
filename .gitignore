@@ -11,9 +11,15 @@ dist/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data mentah dan hasil panen
+# Data mentah dan cache
 data/images/
 data/raw/
+data_cache/
+*.npz
+data/urls.json
+data/articles_raw.jsonl
+data/articles.jsonl
+data/pairs_v1.jsonl
 data_collection/output/
 
 # Model dan checkpoint
@@ -39,3 +45,18 @@ hf_cache/
 Thumbs.db
 .vscode/
 .idea/
+data/pairs_draft.jsonl
+
+# Eksperimen fusion
+.venv-train/
+data/cache/
+experiments/runs*/
+experiments/ledger_smoke.csv
+experiments/pemenang_smoke.json
+experiments/pemenang_fusion_smoke.json
+experiments/v1/runs*/
+experiments/v1/ledger_smoke.csv
+experiments/v1/pemenang_smoke.json
+
+data/arsip/
+data/audit_exports/

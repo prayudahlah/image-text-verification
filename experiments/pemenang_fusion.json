@@ -1,0 +1,14 @@
+{
+  "kode": "F3",
+  "fusion": "xattn_uni",
+  "f1_macro": 0.5696,
+  "pairwise": 0.7152777777777778,
+  "epoch_best": 8,
+  "selisih_dua_teratas": 0.0058,
+  "aturan": "seri, dipilih strategi penelitian",
+  "acuan_encoder": {
+    "teks": "mbert",
+    "gambar": "dinov2"
+  },
+  "ledger": "ledger.csv"
+}

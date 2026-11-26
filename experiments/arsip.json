@@ -1,0 +1,47 @@
+{
+  "dataset": "data/07_pairs.jsonl",
+  "jumlah_berkas": 5689,
+  "total_bytes": 917524480,
+  "bagian": [
+    {
+      "nama": "gambar-13674.part1.tar",
+      "berkas": "1/5",
+      "jumlah": 1137,
+      "bytes": 188241920,
+      "sha256": "1562e3e7d49f4c4adb6884e19f617d7f66caa75737a007129f36a418ac5c521d",
+      "drive_id": "1YeSSVGT2eQwunVtPxg1yGF0hDbTu7f-S"
+    },
+    {
+      "nama": "gambar-13674.part2.tar",
+      "berkas": "2/5",
+      "jumlah": 1138,
+      "bytes": 174080000,
+      "sha256": "b6b65f3038998583e3f74a3fe34bd10a749adc42988dd3a1b6a243cb35fa9ed4",
+      "drive_id": "1Giw07dDBUT-7ZDpFM9auSuQ9CxaKb1t7"
+    },
+    {
+      "nama": "gambar-13674.part3.tar",
+      "berkas": "3/5",
+      "jumlah": 1138,
+      "bytes": 181852160,
+      "sha256": "c8e0e806ee57e6fe2b1c9e95cda2deab4cfe159a5a0091c51fddca80a757051c",
+      "drive_id": "1YhOzSxtGn9MlL20GzxxNKdc_uIQ_MWu9"
+    },
+    {
+      "nama": "gambar-13674.part4.tar",
+      "berkas": "4/5",
+      "jumlah": 1138,
+      "bytes": 181401600,
+      "sha256": "b893cdc7c3988fed17d1d929ad5f9719da6c3453b323145f78c93284d0e3ec7d",
+      "drive_id": "1dSDQrOp7wCvOkxUT8eOOT2Khuu8PUgsu"
+    },
+    {
+      "nama": "gambar-13674.part5.tar",
+      "berkas": "5/5",
+      "jumlah": 1138,
+      "bytes": 191948800,
+      "sha256": "0f0b586a8ff7f2aba5dbcea3c743c64bd9fe4902f76466a6a09cf85e0c77c6c2",
+      "drive_id": "1emtLvc5QCwaQypxWJ0iiCBOTNPeeJBbY"
+    }
+  ]
+}
