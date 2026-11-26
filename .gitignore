@@ -59,3 +59,4 @@ experiments/v1/ledger_smoke.csv
 experiments/v1/pemenang_smoke.json
 
 data/arsip/
+data/audit_exports/
